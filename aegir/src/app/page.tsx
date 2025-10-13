@@ -20,7 +20,7 @@ export default function Home() {
                         sizes="(max-width: 768px) 50vw, (max-width:1200px) 25vw, 20vw"/>
 
                            <Link
-                           href={`/product/${encodeURIComponent(String(product.id))}`}
+                           href={`/boats/${encodeURIComponent(String(product.id))}`}
                            aria-label={`Ver ${product.name}`}
                            className="absolute inset-0 z-10 cursor-pointer"
                             >

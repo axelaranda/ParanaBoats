@@ -1,6 +1,7 @@
 "use client"
 import Image from "next/image"
-import miLogo from "@/image/logo.png"
+import miLogo from "@/images/logo.png"
+import yo from "@/images/yo.png"
 import Link from "next/link"
 
 const Footer = () => {
@@ -10,19 +11,29 @@ const Footer = () => {
     
         <h1 className="text-custom-light font-roboto text-3xl text-center mt-30">LA VIDA ES UNA SOLA, DISFRUTALA
         </h1>
-        <h2 className="text-custom-light font-roboto text-xl text-center mt-6 ml-6 mr-6">En Paraná Boats nuestra principal preocupación es que puedas encontrar sin problemas la embarcación que tanto deseas y disfrutar de la mejor experiencia de compra, profesional y transparente</h2>
+        <h2 className="text-custom-light font-roboto text-xl text-center mt-6 ml-6 mr-6">Mi principal preocupación es que puedas encontrar sin problemas la embarcación que tanto deseas y disfrutar de la mejor experiencia de compra, Paraná Boats: profesionalismo y transparencia</h2>
          
          <div className="w-full flex justify-center mt-6">
           <Link href="/" className="inline-block rounded-xl transition duration-300 ease-in-out group">
           <Image src={miLogo} alt="Logo"
           className="rounded-xl transition duration-300 ease-in-out group-hover:brightness-200"
-          width={300}
-          height={300}
+          width={200}
+          height={200}
           />
           </Link>
          </div>
 
-          <div className="text-center text-sm py-6 flex-1 font-roboto">
+         <div className="w-full flex justify-center mt-6">
+          <Image src={yo} alt="Yo"
+          className="rounded-xl"
+          width={200}
+          height={400}
+          />
+         </div>
+
+         <h2 className="text-custom-light font-roboto text-center mt-6 ml-6 mr-6">Mi nombre es Axel Aranda, estoy en contacto con el río desde los 3 días de vida cuando me llevaban a navegar al Plenamar 27 de mi abuelo, empecé a navegar en optimist a los 9 años, empecé a competir a los 11, pasé también por láser -ahora llamada ILCA-, navegué en numerosos veleros lastrados y también fui instructor de optimist e ILCA; podría afirmar sin lugar a duda que soy un apasionado de la náutica</h2>
+
+          <div className="text-center text-sm py-6 flex-1 font-roboto text-custom-light">
             <p>Localidad: Argentina</p>
             <p>Idioma: Español</p>
             <p>Todos los derechos reservados</p>

@@ -18,13 +18,18 @@ export default function ExpandableText({
 }: ExpandableTextProps) {
   const [open, setOpen] = useState(false);
 
-  const base = [
-    className,
-    "select-text transition-all duration-300 ease-in-out",
-  ];
-  const stateClass = open
-    ? expandedClassName ?? "line-clamp-none"
-    : collapsedClassName ?? `line-clamp-${initialLines}`;
+  const clampMap: Record<number, string> = {
+    1: "line-clamp-1",
+    2: "line-clamp-2",
+    3: "line-clamp-3",
+    4: "line-clamp-4",
+    5: "line-clamp-5",
+    6: "line-clamp-6",
+  };
+
+  const collapsed = collapsedClassName ?? clampMap[initialLines] ?? "line-clamp-4";
+  const expanded = expandedClassName ?? "line-clamp-none";
+  const stateClass = open ? expanded : collapsed;
 
   return (
     <p
@@ -33,7 +38,13 @@ export default function ExpandableText({
       aria-expanded={open}
       onClick={() => setOpen(v => !v)}
       onKeyDown={(e) => (e.key === "Enter" || e.key === " ") && setOpen(v => !v)}
-      className={[...base, stateClass].join(" ")}
+      className={[
+        className,
+        "select-text transition-all duration-300 ease-in-out",
+        "whitespace-pre-wrap", 
+        "cursor-pointer",
+        stateClass,
+      ].join(" ")}
     >
       {text}
     </p>

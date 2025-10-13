@@ -31,7 +31,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`${poppins.variable} ${roboto.variable} antialiased min-h-screen flex flex-col`}
+        className={`${poppins.variable} ${roboto.variable} antialiased min-h-screen flex flex-col bg-custom-dark`}
       >
         <>
          <NavBar/>
