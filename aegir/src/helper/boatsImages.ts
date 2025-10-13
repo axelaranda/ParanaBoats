@@ -395,5 +395,73 @@ Papeles al día
     ],
     id: 8,
   },
+
+    {
+    name: "Eclipse 18",
+    price: 15000,
+    description:
+    `
+Eclipse 18 
+
+Año 2012
+
+Material: fibra de vidrio 
+
+Eslora: 5,36 metros 
+Manga: 2,11 metros 
+Puntal: 0,98 metro
+
+Motor: Mercury 115 hp, 2t
+
+Trailer 
+
+Ecosonda 
+Medidores de parámetros del motor completos y con marco cromado 
+Power trim 
+Arranque eléctrico
+    `,
+    images: [
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760363255/IMG-20250510-WA0026_2_s1egll.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760363265/IMG-20250510-WA0025_dzuers.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760363275/IMG-20250509-WA0001_qvcppw.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760363284/IMG-20250507-WA0015_f3xklq.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760363293/IMG-20250507-WA0014_up9dco.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760363302/IMG-20250507-WA0013_kclxfn.jpg",
+    ],
+    id: 9,
+  },
+
+      {
+    name: "Semirrígido Sail Nautic",
+    price: 14500,
+    description:
+    `
+Goma 2022
+Casco 2001
+Motor 2003
+
+Motor: Mercury 50 hp 4t 
+
+Trailer doble eje
+
+Eslora: 5,12 metros 
+Manga: 2,3 metros 
+Capacidad de pasajeros: 8
+Capacidad de carga: 950 Kg
+
+Power trim 
+Arranque eléctrico 
+Ecosonda Garmin 
+
+Equipado para kite y wake
+    `,
+    images: [
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760363311/IMG-20250505-WA0026_iyos26.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760363320/IMG-20250505-WA0025_nbzux4.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760363328/IMG-20250505-WA0024_fsvk1f.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760363338/IMG-20250505-WA0023_hno7zu.jpg",
+    ],
+    id: 10,
+  },
 ];
 
