@@ -24,7 +24,7 @@ export default function BoatDetail() {
 
   return (
 
-    <article className="bg-custom-medium min-h-dvh flex items-center justify-center items-start pt-8">
+    <article className="min-h-dvh flex items-center justify-center items-start pt-8">
     <section className="border rounded-xl flex flex-col max-w-[900px] w-full overflow-hidden shadow-sm bg-custom-light p-4 mb-8">
 
       <Carousel images={boatData.images} alt={boatData.name} className="mb-4" />
