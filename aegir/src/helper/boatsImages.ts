@@ -431,7 +431,7 @@ Arranque eléctrico
     id: 9,
   },
 
-      {
+   {
     name: "Semirrígido Sail Nautic",
     price: 14500,
     description:
@@ -462,6 +462,234 @@ Equipado para kite y wake
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760363338/IMG-20250505-WA0023_hno7zu.jpg",
     ],
     id: 10,
+  },
+
+     {
+    name: "Dangelo 30",
+    price: 32000,
+    description:
+    `
+Año 1984    
+
+Material: fibra de vidrio 
+
+Eslora: 9 metros 
+Manga: 3,2 metros 
+Calado: 1,8 metros 
+Altura interior: 1,8 metros 
+
+Motor: Volvo diésel de 18 hp
+Transmisión: pata saildrive
+
+Enrollador de proa 
+
+Fondo recién hecho
+Cubierta totalmente repasada con antideslizante nuevo 
+
+Cabullería en buen estado 
+
+Vela mayor con media vida de uso
+Genoa de enrollar en impecable estado 
+Spinnaker en buen estado 
+
+Herrajes completos
+Molinetes en óptimas condiciones 
+
+Ecosonda 
+Anemómetro 
+Piloto automático 
+VHF
+
+Cocina con horno
+Camarote compartimentado con cama doble en proa 
+Conejera en popa
+Sillón a estribor 
+Mesa con sillón convertible en cama a babor
+Baño compartimentado con inodoro eléctrico en proa 
+Conservadora 
+Adaptador para 220v
+
+Toldo en buen estado y muy completo 
+Bimini en popa
+
+Instalación eléctrica recién renovada 
+
+Papeles al día 
+    `,
+    images: [
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760414866/FB_IMG_1760409172606_gme2uh.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760414787/IMG_20250405_183111_088_ie2yus.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760414796/IMG_20250405_182946_900_fz60eb.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760414805/IMG_20250405_182936_203_p0uuia.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760414816/IMG_20250405_182547_041_jtgue3.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760414826/IMG_20250405_182529_131_wlavwi.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760414836/IMG_20250405_182512_711_bmcftf.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760414846/IMG_20250405_182357_846_bdihka.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760414856/IMG_20250405_182343_840_sehuvf.jpg",
+    ],
+    id: 11,
+  },
+
+     {
+    name: "Ponyriver 760",
+    price: 34000,
+    description:
+    `
+Eslora: 7,6 metros 
+Manga: 2,45 metros 
+Altura interior en timonera: 1,9 metros 
+
+Año: 2018
+
+Material: fibra de vidrio 
+
+Ubicado en Paraná 
+
+Motor principal: Evinrude 90 hp
+Motor auxiliar: Johnson 10 hp
+
+Interior:
+Camarote doble en proa 
+Baño compartimentado con inodoro eléctrico 
+Cocina de anafe 
+
+Equipamiento:
+Ancla 
+Malacate eléctrico 
+Trailer doble eje 
+Estereo 
+Ecosonda 
+Lona cobertora 
+
+Instalación eléctrica nueva
+    `,
+    images: [
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760415320/IMG_20250715_111350_480_2_mp3hkd.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760415311/IMG_20250715_111424_591_dkxrnh.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760415330/IMG_20250715_111328_164_jcm0vl.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760415302/IMG_20250715_111636_844_ptx9zb.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760415340/IMG_20250715_111109_383_yjedta.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760415351/IMG_20250715_110232_389_xje2ox.jpg",
+    ],
+    id: 12,
+  },
+
+     {
+    name: "Bermuda 175",
+    price: 15900,
+    description:
+    `
+Año 1998
+
+Ubicada en Rosario 
+
+Material: fibra de vidrio 
+Eslora: 5,2 metros 
+Manga: 2,1 metros 
+
+Motor Mariner 150 hp del año 2018 con 182 hrs 
+
+Trailer 
+Lona
+Ecosonda 
+Estereo 
+Barra de ski
+Muchos accesorios!
+    `,
+    images: [
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760415618/IMG-20241110-WA0022_v11keb.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760415601/IMG-20241110-WA0024_k9d29x.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760415610/IMG-20241110-WA0023_o2yrhl.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760415627/IMG-20241110-WA0021_vlvszj.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760415638/IMG-20241110-WA0020_xsavw3.jpg",
+    ],
+    id: 13,
+  },
+
+     {
+    name: "Optimist",
+    price: 1500,
+    description:
+    `
+Material: fibra de vidrio
+
+Año:2011
+
+Flotadores casi nuevos
+Funda completa
+Vela de competición
+
+Homologado ISAF
+    `,
+    images: [
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760415988/IMG-20250926-WA0054_sysky0.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760416008/IMG-20250926-WA0052_b78sgf.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760416018/IMG-20250926-WA0032_cq1bwz.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760415998/IMG-20250926-WA0053_pjtuct.jpg",
+    ],
+    id: 14,
+  },
+
+      {
+    name: "Atuel 460",
+    price: 9000,
+    description:
+    `
+Ubicada en Paraná 
+
+Año 2019
+
+Eslora: 4,6 metros 
+Manga: 1,7 metros 
+
+Motor: Yamaha 70 hp con power trim
+
+Material fibra de vidrio 
+
+Arranque eléctrico 
+Techo para sol
+Lona
+Bomba de achique 
+Luces
+Ecosonda 
+Trailer 
+    `,
+    images: [
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760416309/IMG-20241121-WA0018_2_ukslks.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760416320/IMG-20241121-WA0020_on6wfk.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760416331/IMG-20241121-WA0024_2_txdrd6.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760416341/IMG-20241121-WA0027_3_iyojkh.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760416352/IMG-20241121-WA0030_fiweic.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760416361/IMG-20241121-WA0031_ez1oq7.jpg",
+    ],
+    id: 15,
+  },
+
+        {
+    name: "Quicksilver 555",
+    price: 21000,
+    description:
+    `
+Año 2011
+
+Ubicada en Colón
+
+Motor: Evinrude 135 HO con solo 15 hrs 
+
+Ecosonda 
+Relojería de motor completa
+Toldo 
+Tráiler 
+Equipo de música 
+    `,
+    images: [
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760417512/IMG-20250109-WA0023_xveoap.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760417521/IMG-20250109-WA0021_p77tsg.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760417531/IMG-20250109-WA0024_qghxb1.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760417541/IMG-20250109-WA0026_vw6tvr.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760417548/IMG-20250109-WA0030_ax6ymy.jpg",
+    ],
+    id: 16,
   },
 ];
 
