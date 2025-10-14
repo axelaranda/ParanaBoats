@@ -691,5 +691,25 @@ Equipo de música
     ],
     id: 16,
   },
+
+          {
+    name: "Kiel 360",
+    price: 2500,
+    description:
+    `
+Goma año 2020
+
+Eslora: 3,6 metros
+Manga: 1,5 metros
+
+Motor: Powertec 15 hp 2 tiempos
+    `,
+    images: [
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760457913/Imagen_de_WhatsApp_2025-10-14_a_las_12.48.57_b6da874e_cdk8kk.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760457921/Imagen_de_WhatsApp_2025-10-14_a_las_12.48.56_973b874d_t0waxs.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760457928/Imagen_de_WhatsApp_2025-10-14_a_las_12.48.59_78e3280d_v3t2dx.jpg",
+    ],
+    id: 17,
+  },
 ];
 
