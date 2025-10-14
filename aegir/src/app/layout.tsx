@@ -4,6 +4,7 @@ import "./globals.css";
 import NavBar from "@/components/NavBar";
 import Footer from "@/components/Footer";
 import WhatsAppFab from "@/components/WhatsAppFab";
+import WavesBackground from "@/components/WavesBackground";
 
 const poppins = Poppins({
   variable: "--font-poppins",
@@ -36,6 +37,7 @@ export default function RootLayout({
       >
         <>
          <NavBar/>
+         <WavesBackground/>
          {children}
          <WhatsAppFab/>
          <Footer/>
