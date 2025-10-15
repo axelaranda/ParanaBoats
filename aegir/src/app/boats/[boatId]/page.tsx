@@ -23,9 +23,11 @@ export default function BoatDetail() {
   if (!boatData) return <p className="p-6">No encontrado</p>;
 
   return (
-
+    <main
+     className="min-h-screen bg-cover bg-center bg-no-repeat"
+     style={{ backgroundImage: "url(/playa.jpg)" }}>
     <article className="min-h-dvh flex items-center justify-center items-start pt-8">
-    <section className="border rounded-xl flex flex-col max-w-[900px] w-full overflow-hidden shadow-sm bg-custom-light p-4 mb-8">
+    <section className="border rounded-xl flex flex-col max-w-[900px] w-full overflow-hidden shadow-sm bg-custom-light p-4 mb-8 m-3 sm:m-6">
 
       <Carousel images={boatData.images} alt={boatData.name} className="mb-4" />
 
@@ -42,7 +44,7 @@ export default function BoatDetail() {
       
     </section>
     </article>
-    
+    </main>
   );
 }
  

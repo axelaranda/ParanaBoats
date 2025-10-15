@@ -7,7 +7,8 @@ export default function Home() {
   const allProducts = boats;
 
   return (
-    <div>      
+    <main   className="min-h-screen bg-cover bg-center bg-no-repeat"
+    style={{ backgroundImage: "url(/playa.jpg)" }}>
       <section className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-3 gap-6 m-3 sm:m-6 md:m-10 lg:m-20 xl:m-30">{allProducts.map((product) => {
         return (
                             <article key={product.name} className="border rounded-xl flex flex-col h-[420px] overflow-hidden shadow-sm bg-custom-light">
@@ -38,7 +39,7 @@ export default function Home() {
                   </article>  
         )
       })}</section>
-    </div>
+    </main>
   );
 }
 

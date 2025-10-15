@@ -12,8 +12,8 @@ export default function WhatsAppFab() {
       rel="noopener"
       aria-label="Chatear por WhatsApp"
       className="
-        fixed right-4 bottom-4 z-50
-        inline-flex h-14 w-14 items-center justify-center
+        fixed right-10 bottom-10 z-50
+        inline-flex h-15 w-15 items-center justify-center
         rounded-full bg-green-500 text-white shadow-xl
         transition active:scale-95 hover:brightness-125
       "

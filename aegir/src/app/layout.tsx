@@ -4,7 +4,6 @@ import "./globals.css";
 import NavBar from "@/components/NavBar";
 import Footer from "@/components/Footer";
 import WhatsAppFab from "@/components/WhatsAppFab";
-import WavesBackground from "@/components/WavesBackground";
 
 const poppins = Poppins({
   variable: "--font-poppins",
@@ -33,11 +32,9 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`${poppins.variable} ${roboto.variable} antialiased min-h-screen flex flex-col bg-custom-dark`}
-      >
+        className={`${poppins.variable} ${roboto.variable} relative min-h-screen overflow-x-hidden bg-custom-dark`}>
         <>
          <NavBar/>
-         <WavesBackground/>
          {children}
          <WhatsAppFab/>
          <Footer/>

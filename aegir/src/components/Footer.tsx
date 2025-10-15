@@ -7,9 +7,9 @@ import Link from "next/link"
 const Footer = () => {
 
     return (
-      <section className="bg-custom-dark "> 
+      <section className="bg-custom-dark pt-32"> 
     
-        <h1 className="text-custom-light font-roboto text-3xl text-center mt-30">La libertad de navegar
+        <h1 className="text-custom-light font-roboto text-3xl text-center">La libertad de navegar
         </h1>
         <h2 className="text-custom-light font-roboto text-xl text-center mt-6 ml-6 mr-6">Mi principal preocupación es que puedas encontrar sin problemas la embarcación que tanto deseas y disfrutar de la mejor experiencia de compra, Paraná Boats: profesionalismo y transparencia</h2>
          

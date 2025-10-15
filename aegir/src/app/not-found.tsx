@@ -4,7 +4,7 @@ export default function Custom404() {
   return (
     <main className="min-h-screen grid place-items-center bg-custom-medium">
       <section className="text-center px-6">
-        <h1 className="text-7xl font-poppins tracking-tight text-custom-dark">404</h1>
+        <h1 className="text-7xl font-poppins tracking-tight text-custom-light">404</h1>
         <p className="mt-4 text-lg text-gray-700">
           Ups, la página que buscás no existe
         </p>

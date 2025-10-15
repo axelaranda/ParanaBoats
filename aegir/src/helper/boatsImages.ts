@@ -694,13 +694,15 @@ Equipo de música
 
           {
     name: "Kiel 360",
-    price: 2500,
+    price: 3500,
     description:
     `
 Goma año 2020
 
 Eslora: 3,6 metros
 Manga: 1,5 metros
+
+Trailer
 
 Motor: Powertec 15 hp 2 tiempos
     `,
