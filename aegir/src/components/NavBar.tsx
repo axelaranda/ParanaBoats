@@ -7,9 +7,9 @@ const NavBar = () => {
 
     return (
 
-       <header className="sticky top-0 z-40 w-full bg-custom-dark backdrop-blur">
+       <header className="sticky top-0 z-40 w-full backdrop-blur">
 
-       <nav className="bg-custom-dark flex flex-wrap items-center px-4 py-2 gap-3">
+       <nav className="flex flex-wrap items-center px-4 py-2 gap-3">
 
         <section>
             <Link href="/" className="inline-block rounded-xl transition duration-300 ease-in-out group">
@@ -17,7 +17,7 @@ const NavBar = () => {
             </Link>
         </section>
 
-        <h1 className="hidden sm:block text-xl md:text-2xl lg:text-3xl font-poppins text-custom-light text-center mx-auto truncate">Encontrá la embarcación que estabas buscando</h1>
+        <h1 className="hidden sm:block text-xl md:text-2xl lg:text-3xl font-poppins text-custom-dark text-center mx-auto truncate">Encontrá la embarcación que estabas buscando</h1>
 
         <div className="flex md:flex items-center justify-center w-full md:w-auto">
           <SocialLinks
@@ -32,7 +32,7 @@ const NavBar = () => {
         </nav>
 
         <div className="sm:hidden px-4 pb-3">
-        <h1 className="text-base font-poppins text-custom-light text-center">
+        <h1 className="text-base font-poppins text-custom-dark text-center">
           Encontrá la embarcación que estabas buscando
         </h1>
         </div>

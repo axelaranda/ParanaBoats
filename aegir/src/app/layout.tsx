@@ -32,7 +32,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`${poppins.variable} ${roboto.variable} relative min-h-screen overflow-x-hidden bg-custom-dark`}>
+        className={`${poppins.variable} ${roboto.variable} relative min-h-screen overflow-x-hidden`}>
         <>
          <NavBar/>
          {children}
