@@ -7,7 +7,7 @@ export default function Home() {
   const allProducts = boats;
 
   return (
-    <main className="min-h-screen bg-cover bg-center bg-no-repeat bg-fixed !pt-28"
+    <main className="min-h-screen bg-cover bg-center bg-no-repeat bg-fixed !pt-28 !pb-28"
     style={{ backgroundImage: "url(/playa.jpg)" }}>
       <section className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mx-6 md:mx-10 lg:mx-20 xl:mx-28">{allProducts.map((product) => {
         return (
