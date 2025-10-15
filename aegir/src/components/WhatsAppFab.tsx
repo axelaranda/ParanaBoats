@@ -13,16 +13,16 @@ export default function WhatsAppFab() {
       aria-label="Chatear por WhatsApp"
       className="
         fixed right-10 bottom-10 z-50
-        inline-flex h-15 w-15 items-center justify-center
+        inline-flex h-20 w-20 items-center justify-center
         rounded-full bg-green-500 text-white shadow-xl
         transition active:scale-95 hover:brightness-125
       "
       style={{
-        right: "max(1rem, env(safe-area-inset-right, 0px))",
-        bottom: "max(1rem, env(safe-area-inset-bottom, 0px))",
+        right: "max(4rem, env(safe-area-inset-right, 0px))",
+        bottom: "max(4rem, env(safe-area-inset-bottom, 0px))",
       }}
     >
-    <SiWhatsapp size={60}/>
+    <SiWhatsapp size={80}/>
     </a>
   );
 }
