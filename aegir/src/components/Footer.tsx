@@ -7,7 +7,7 @@ import Link from "next/link"
 const Footer = () => {
 
     return (
-      <section className="bg-custom-dark pt-32"> 
+      <section className="pt-32"> 
     
         <h1 className="text-custom-dark font-roboto text-3xl text-center">La libertad de navegar
         </h1>

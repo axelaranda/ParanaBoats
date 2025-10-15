@@ -7,7 +7,7 @@ const NavBar = () => {
 
     return (
 
-       <header className="sticky top-0 z-40 w-full backdrop-blur">
+       <header className="sticky top-0 z-40 w-full">
 
        <nav className="flex flex-wrap items-center px-4 py-2 gap-3">
 
