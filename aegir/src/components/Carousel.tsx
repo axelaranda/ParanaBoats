@@ -64,7 +64,7 @@ export default function Carousel({ images, alt, initialIndex = 0, className = ""
     <div className={`w-full ${className}`}>
       <div
         ref={trackRef}
-        className="relative w-full h-80 sm:h-96 rounded-xl overflow-hidden bg-black/10"
+        className="relative w-full h-[360px] sm:h-[480px] md:h-[600px] lg:h-[720px] rounded-xl overflow-hidden bg-black/10"
         aria-roledescription="carousel"
         aria-label="Galería de imágenes"
       >
