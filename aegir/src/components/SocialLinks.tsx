@@ -32,7 +32,7 @@ export default function SocialLinks({
               rel="noopener"
               aria-label={label}
               className="inline-flex items-center justify-center
-                         rounded-full p-2 bg-custom-dark text-custom-light
+                         rounded-full p-2 bg-custom-light text-custom-dark
                          hover:brightness-125 active:scale-95 transition shadow-sm"
             >
               {icon}
