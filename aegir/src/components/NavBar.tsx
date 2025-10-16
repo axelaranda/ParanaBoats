@@ -17,7 +17,7 @@ const NavBar = () => {
             </Link>
         </section>
 
-        <h1 className="hidden sm:block text-xl md:text-2xl lg:text-3xl font-poppins text-custom-dark bg-custom-light border border-transparent rounded-xl p-1 px-3 text-center mx-auto truncate">Encontrá la embarcación que estabas buscando</h1>
+        <h1 className="hidden sm:block text-2xl md:text-3xl lg:text-4xl font-poppins text-custom-dark [text-shadow:_2px_2px_0_#4b5563] p-1 px-3 text-center mx-auto truncate">Encontrá la embarcación que estabas buscando</h1>
 
         <div className="flex md:flex items-center justify-center w-full md:w-auto">
           <SocialLinks
@@ -32,7 +32,7 @@ const NavBar = () => {
         </nav>
 
         <div className="sm:hidden px-4 pb-3">
-        <h1 className="text-base font-poppins text-custom-dark bg-custom-light border rounded-xl border-transparent p-1 px-3 text-center">
+        <h1 className="text-2xl font-poppins text-custom-dark [text-shadow:_2px_2px_0_#4b5563] p-1 px-3 text-center">
           Encontrá la embarcación que estabas buscando
         </h1>
         </div>
