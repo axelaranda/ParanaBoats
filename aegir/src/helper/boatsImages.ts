@@ -165,7 +165,7 @@ Transmisión: pata Volvo
   },
 
     {
-    name: "Corcovado 30 (VENDIDO)",
+    name: "Corcovado 30",
     price: 28000,
     description:
     `
@@ -692,7 +692,7 @@ Equipo de música
     id: 16,
   },
 
-          {
+ {
     name: "Kiel 360",
     price: 3500,
     description:
@@ -713,5 +713,51 @@ Motor: Powertec 15 hp 2 tiempos
     ],
     id: 17,
   },
+
+   {
+    name: "Mamba 25",
+    price: 46000,
+    description:
+    `
+Ubicado en Paraná 
+
+Material: fibra de vidrio 
+
+Año: 2011
+
+Eslora: 7,5 metros 
+Manga: 2,7 metros 
+Puntal: 1,3 metros 
+
+Motor: Mercruiser 260 hp naftero con 690 hrs
+Transmisión: pata Bravo 3
+
+Interior:
+Camarote doble en proa 
+Baño compartimentado a estribor 
+
+Equipamiento:
+Televisor 
+Ecosonda Garmin
+Radio VHF
+Estereo Pioneer
+Inverter
+Freezer
+Aire acondicionado frío/calor
+
+Toldo cobertor 
+
+Flappers
+    `,
+    images: [
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760629578/IMG-20250719-WA0013_yn3yfa.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760629588/IMG-20250719-WA0014_twwrmo.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760629597/IMG-20250719-WA0011_xiljjh.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760629606/IMG-20250719-WA0010_nv44pl.jpg",
+    ],
+    id: 18,
+  },
 ];
+
+
 
