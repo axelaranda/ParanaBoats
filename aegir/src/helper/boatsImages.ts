@@ -201,6 +201,7 @@ Cuenta revoluciones
 Bomba de achique en sentina
     `,
     images: [
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760632870/VENDIDO_bile05.png",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760336809/IMG-20241107-WA0031_bzwqoz.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760336818/IMG-20241023-WA0047_ufyjyg.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760336827/IMG-20241023-WA0045_xexv8y.jpg",
@@ -750,6 +751,7 @@ Toldo cobertor
 Flappers
     `,
     images: [
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760632861/VENDIDO_1_ers0d5.png",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760629578/IMG-20250719-WA0013_yn3yfa.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760629588/IMG-20250719-WA0014_twwrmo.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760629597/IMG-20250719-WA0011_xiljjh.jpg",
