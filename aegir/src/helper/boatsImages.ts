@@ -801,9 +801,9 @@ Comando interior y en fly
 Flybridge con espacio para parrilla eléctrica
     `,
     images: [
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760712435/Imagen_de_WhatsApp_2025-10-14_a_las_11.31.59_694d4ba9_abqbne.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760712415/Imagen_de_WhatsApp_2025-10-14_a_las_11.32.00_f7fd48c3_kxehbf.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760712426/Imagen_de_WhatsApp_2025-10-14_a_las_11.31.59_d7824bb9_p4blrw.jpg",
-      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760712435/Imagen_de_WhatsApp_2025-10-14_a_las_11.31.59_694d4ba9_abqbne.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760712442/Imagen_de_WhatsApp_2025-10-14_a_las_11.31.59_6ea8a714_kl5urk.jpg",
     ],
     id: 19,
