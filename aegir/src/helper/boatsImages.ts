@@ -759,6 +759,56 @@ Flappers
     ],
     id: 18,
   },
+
+     {
+    name: "Crucero 34 pies",
+    price: 52000,
+    description:
+    `
+Ubicado en Paraná 
+
+Material: acero naval
+
+Año: 1983
+
+Eslora: 10,32 metros 
+Manga: 3,17 metros 
+Puntal: 1,5 metros 
+
+Motores: 2 Hyundai diésel de 100 hp
+Transmisión: línea de ejes
+
+Interior:
+Camarote doble en proa con climatic, 2 placares y colchón nuevo de alta densidad
+Baño compartimentado con inodoro eléctrico
+Cuchetas dobles a babor
+Mesa convertible en cama a estribor
+
+Equipamiento:
+Ecosonda 
+Radio VHF
+Cocina
+Heladera
+Despensa
+Alacena
+Bacha de inoxidable
+Grupo electrógeno Onan
+
+Cockpit con espacio para mesa de 6 personas
+
+Comando interior y en fly
+
+Flybridge con espacio para parrilla eléctrica
+    `,
+    images: [
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760712415/Imagen_de_WhatsApp_2025-10-14_a_las_11.32.00_f7fd48c3_kxehbf.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760712426/Imagen_de_WhatsApp_2025-10-14_a_las_11.31.59_d7824bb9_p4blrw.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760712435/Imagen_de_WhatsApp_2025-10-14_a_las_11.31.59_694d4ba9_abqbne.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760712442/Imagen_de_WhatsApp_2025-10-14_a_las_11.31.59_6ea8a714_kl5urk.jpg",
+    ],
+    id: 19,
+  },
+
 ];
 
 
