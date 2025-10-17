@@ -202,7 +202,6 @@ Bomba de achique en sentina
     `,
     images: [
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760632870/VENDIDO_bile05.png",
-      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760336809/IMG-20241107-WA0031_bzwqoz.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760336818/IMG-20241023-WA0047_ufyjyg.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760336827/IMG-20241023-WA0045_xexv8y.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760336837/IMG-20241023-WA0041_meefzr.jpg",
@@ -752,7 +751,6 @@ Flappers
     `,
     images: [
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760632861/VENDIDO_1_ers0d5.png",
-      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760629578/IMG-20250719-WA0013_yn3yfa.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760629588/IMG-20250719-WA0014_twwrmo.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760629597/IMG-20250719-WA0011_xiljjh.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760629606/IMG-20250719-WA0010_nv44pl.jpg",
@@ -807,6 +805,38 @@ Flybridge con espacio para parrilla eléctrica
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760712442/Imagen_de_WhatsApp_2025-10-14_a_las_11.31.59_6ea8a714_kl5urk.jpg",
     ],
     id: 19,
+  },
+
+     {
+    name: "Nautilus 45",
+    price: 5000,
+    description:
+    `
+Material: fibra de vidrio 
+Año: 2000
+
+Ubicada en Paraná 
+
+Eslora: 4,5 metros 
+Manga: 1,68 metros
+
+Motor: Johnson 50 hp 2 tiempos 
+
+Power trim
+Arranque eléctrico 
+Equipo de sonido con dos parlantes 
+Indicadores de revoluciones y temperatura de motor
+Tanque de nafta 
+Elementos de seguridad
+Bomba de achique
+    `,
+    images: [
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760716726/VENDIDA_shk4aj.png",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760716530/Screenshot_20251017-124848_2_klvrs2.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760716543/Screenshot_20251017-124922_2_qw1auy.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760716536/Screenshot_20251017-124901_2_gpsrza.jpg",
+    ],
+    id: 20,
   },
 
 ];
