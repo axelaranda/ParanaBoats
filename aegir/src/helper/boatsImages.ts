@@ -791,6 +791,8 @@ Despensa
 Alacena
 Bacha de inoxidable
 Grupo electrógeno Onan
+Aire acondicionado
+TV
 
 Cockpit con espacio para mesa de 6 personas
 
@@ -803,6 +805,11 @@ Flybridge con espacio para parrilla eléctrica
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760712415/Imagen_de_WhatsApp_2025-10-14_a_las_11.32.00_f7fd48c3_kxehbf.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760712426/Imagen_de_WhatsApp_2025-10-14_a_las_11.31.59_d7824bb9_p4blrw.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760712442/Imagen_de_WhatsApp_2025-10-14_a_las_11.31.59_6ea8a714_kl5urk.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760831335/IMG_20251018_174242_014_e9xr4o.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760831342/IMG_20251018_174221_001_gw8clj.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760831351/IMG_20251018_174006_463_dxxjq0.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760831358/IMG_20251018_173904_241_souhho.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760831368/IMG_20251018_173659_961_bfmvqj.jpg",
     ],
     id: 19,
   },
