@@ -846,6 +846,48 @@ Bomba de achique
     id: 20,
   },
 
+       {
+    name: "Canestrari 235",
+    price: 50000,
+    description:
+    `
+Material: fibra de vidrio 
+
+Eslora: 7,15 metros 
+Manga: 2,55 metros 
+
+Año: 2014
+
+Motorización: Volvo Penta 230 hp nafta
+Transmisión: pata Volvo duo prop
+
+Camarote 
+Baño
+Amplio cockpit
+Mesa
+Bacha con canilla 
+
+Cobertor completo 
+
+Planchada de popa
+
+Instrumental completo 
+
+Solárium en proa
+    `,
+    images: [
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760835835/IMG-20251018-WA0038_ybiixs.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760835852/IMG-20251018-WA0041_oc6xh4.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760835868/IMG-20251018-WA0036_vrrmal.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760835888/IMG-20251018-WA0034_ekxlcw.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760835924/IMG-20251018-WA0030_fh7edf.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760839308/IMG-20251018-WA0024_tc3ovu.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760839316/IMG-20251018-WA0021_afj7ns.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760839324/IMG-20251018-WA0019_sbmbs2.jpg",
+    ],
+    id: 21,
+  },
+
 ];
 
 
