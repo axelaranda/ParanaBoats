@@ -888,6 +888,37 @@ Solárium en proa
     id: 21,
   },
 
+         {
+    name: "F18",
+    price: 4500,
+    description:
+    `
+Ubicado en Paraná 
+
+Material: fibra de vidrio 
+
+Eslora: 5,5 metros 
+Manga: 2,6 metros 
+
+Timones y orzas 
+Aparejo
+Juego de velas completo 
+Cabullería completa
+Herrajes completos
+
+Año 2010
+    `,
+    images: [
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1761971568/IMG-20251027-WA0025_pyghkx.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1761971576/IMG-20251027-WA0024_yzte8r.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1761971583/IMG-20251027-WA0021_puwjjt.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1761971591/IMG-20251027-WA0020_glucgg.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1761971600/IMG-20251027-WA0011_ff935e.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1761971607/IMG-20251027-WA0010_rly7th.jpg",
+    ],
+    id: 22,
+  },
+
 ];
 
 
