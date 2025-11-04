@@ -7,6 +7,8 @@ type ExpandableTextProps = {
   className?: string;            
   collapsedClassName?: string;   
   expandedClassName?: string;    
+  moreLabel?: string;
+  lessLabel?: string;
 };
 
 export default function ExpandableText({
@@ -15,6 +17,8 @@ export default function ExpandableText({
   className = "text-sm text-gray-600 font-roboto",
   collapsedClassName,
   expandedClassName,
+  moreLabel = "Ver más",
+  lessLabel = "Ver menos",
 }: ExpandableTextProps) {
   const [open, setOpen] = useState(false);
 
@@ -32,21 +36,22 @@ export default function ExpandableText({
   const stateClass = open ? expanded : collapsed;
 
   return (
-    <p
-      role="button"
-      tabIndex={0}
-      aria-expanded={open}
-      onClick={() => setOpen(v => !v)}
-      onKeyDown={(e) => (e.key === "Enter" || e.key === " ") && setOpen(v => !v)}
-      className={[
-        className,
-        "select-text transition-all duration-300 ease-in-out",
-        "whitespace-pre-wrap", 
-        "cursor-pointer",
-        stateClass,
-      ].join(" ")}
-    >
-      {text}
-    </p>
+    <div className={`${className} select-text`}>
+      <p
+        className={[
+          "transition-all duration-300 ease-in-out whitespace-pre-wrap",
+          stateClass,
+        ].join(" ")}
+      >
+        {text}
+      </p>
+      <button
+        type="button"
+        onClick={() => setOpen((v) => !v)}
+        className="text-blue-600 font-roboto mt-1 hover:underline focus:outline-none cursor-pointer"
+      >
+        {open ? lessLabel : moreLabel}
+      </button>
+    </div>
   );
 }
