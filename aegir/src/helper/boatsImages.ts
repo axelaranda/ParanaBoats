@@ -919,6 +919,79 @@ Año 2010
     id: 22,
   },
 
+           {
+    name: "Tecno 430",
+    price: 6000,
+    description:
+    `
+Ubicado en Paraná 
+
+Material: fibra de vidrio 
+
+Eslora: 4,2 metros 
+Manga: 1,7 metros 
+
+Motor: Yamaha 60 hp
+
+Arranque eléctrico
+Lona cobertora
+Trailer
+Indicadores de motor
+Tanque de nafta
+
+Año 1999
+    `,
+    images: [
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1762282891/Foto1_1_hijmcc.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1762282901/Foto2_1_wjzrpc.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1762282913/Imagen_de_WhatsApp_2025-11-04_a_las_11.53.11_aa8872af_tcnqmz.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1762282920/Imagen_de_WhatsApp_2025-11-04_a_las_11.53.12_f33391b4_q3dhhn.jpg",
+    ],
+    id: 23,
+  },
+
+             {
+    name: "Grandjean",
+    price: 25000,
+    description:
+    `
+Ubicado en Paraná 
+
+Material: fibra de vidrio 
+
+Eslora: 8,75 metros 
+Manga: 2,86 metros 
+ 
+Motor: Volkswagen diésel 4 cilindros 
+Transmisión: línea de eje 
+
+Año: 1995
+
+Interior:
+Cama doble en proa 
+Cuchetas dobles a babor 
+Mesa con sillones a estribor 
+Baño compartimentado 
+
+Equipamiento:
+Ecosonda 
+Compás 
+VHF
+Corta corriente 
+Bomba de achique 
+Cocina 
+Heladera 
+Inodoro eléctrico 
+    `,
+    images: [
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1762283119/IMG_20250227_172306_453_yfmjrr.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1762283128/IMG_20250227_172334_440_numwjk.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1762283137/IMG_20250227_172214_279_vq1ghu.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1762283145/IMG_20250227_172115_843_kgebtm.jpg",
+    ],
+    id: 24,
+  },
+
 ];
 
 
