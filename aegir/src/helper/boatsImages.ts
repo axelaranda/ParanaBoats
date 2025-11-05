@@ -992,6 +992,66 @@ Inodoro eléctrico
     id: 24,
   },
 
+               {
+    name: "Grandjean",
+    price: 29000,
+    description:
+    `
+Año: 1988
+
+Ubicado en Paraná
+
+Diseño: Obdulio Grand Jean 
+Eslora: 8,75 metros
+Manga: 2,86 metros
+Calado: 0,70 metros
+
+Material: fibra de vidrio
+
+Motor: Vetus diésel 4 cilindros 
+Hp: 32
+Transmisión: línea de eje
+
+Tanque de combustible: 200 lts.
+
+Equipamiento: 
+Timón de acero inox.
+Heladera con freezer
+VHF
+Compás
+Audio CD
+Estación meteorológica
+Ecosonda gráfico
+Cocina con horno
+Inodoro eléctrico con bidematic
+Toma de 220 v
+2 garrafas
+Cerramientos de cockpit con mosquiteros
+2 fondeos
+Mesa quita y pone para cockpit con asientos en u
+Cargador de baterías
+Tanque de agua de 100 litros con bombas presurizadas
+
+Interior: 
+Cama triangulo doble en proa
+Cama de plaza y media a babor
+Baño compartimentado a popa
+Mesa dinette a estribor con mesada de servicios a popa
+Cómodo cockpit con dos butacas a cada banda
+Mesa quita y pone con asientos a popa en u
+    `,
+    images: [
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1762309302/IMG_20251102_145523_299_tqvsf1.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1762309294/IMG_20251102_145452_706_zch5t8.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1762309310/IMG-20250825-WA0011_yp4nc0.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1762309319/IMG-20250825-WA0013_2_a01ngn.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1762309328/IMG-20250825-WA0016_j5o9de.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1762309336/IMG-20250825-WA0018_2_icdvai.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1762309344/IMG-20250825-WA0020_hoqons.jpg",
+    ],
+    id: 25,
+  },
+
 ];
 
 
