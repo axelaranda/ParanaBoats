@@ -437,7 +437,7 @@ Arranque eléctrico
     description:
     `
 Goma 2022
-Casco 2001
+Casco 2007
 Motor 2003
 
 Motor: Mercury 50 hp 4t 
