@@ -848,7 +848,7 @@ Bomba de achique
 
        {
     name: "Canestrari 235",
-    price: 50000,
+    price: 45000,
     description:
     `
 Material: fibra de vidrio 
