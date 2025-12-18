@@ -1064,9 +1064,9 @@ Material: fibra de vidrio
 Eslora: 4 metros
 Manga: 1,6 metros
 
-Año: 2012
+Año: 2019
 
-Motor: Mercury 15 hp 2012
+Motor: Mercury 15 hp año 2012
     `,
     images: [
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1766085540/WhatsApp_Image_2025-12-17_at_13.50.38yuy_y5j4fn.jpg",
