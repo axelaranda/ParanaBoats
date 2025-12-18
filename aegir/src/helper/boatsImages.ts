@@ -1052,6 +1052,30 @@ Mesa quita y pone con asientos a popa en u
     id: 25,
   },
 
+               {
+    name: "Ideal 400",
+    price: 3800,
+    description:
+    `
+Ubicada en Paraná 
+
+Material: fibra de vidrio
+
+Eslora: 4 metros
+Manga: 1,6 metros
+
+Año: 2012
+
+Motor: Mercury 15 hp 2012
+    `,
+    images: [
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1766085540/WhatsApp_Image_2025-12-17_at_13.50.38yuy_y5j4fn.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1766085524/WhatsApp_Image_2025-12-17_at_13.50.38_ggxyt3.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1766085533/WhatsApp_Image_2025-12-17_at_13.50.38y_m4yspn.jpg",
+    ],
+    id: 26,
+  },
+
 ];
 
 
