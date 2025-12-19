@@ -589,6 +589,7 @@ Manga: 2,1 metros
 
 Motor Mariner 150 hp del año 2018 con 182 hrs 
 
+Power trim
 Trailer 
 Lona
 Ecosonda 
@@ -681,6 +682,7 @@ Relojería de motor completa
 Toldo 
 Tráiler 
 Equipo de música 
+Power trim
     `,
     images: [
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760417512/IMG-20250109-WA0023_xveoap.jpg",
@@ -1092,6 +1094,7 @@ Ecosonda
 Equipo de música
 Ancla
 Defensas
+Power trim
 
 Motor: Yamaha 4 tiempos 115 hp
 
