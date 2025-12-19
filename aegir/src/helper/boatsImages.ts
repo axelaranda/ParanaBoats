@@ -1095,6 +1095,7 @@ Equipo de música
 Ancla
 Defensas
 Power trim
+Trailer
 
 Motor: Yamaha 4 tiempos 115 hp
 
