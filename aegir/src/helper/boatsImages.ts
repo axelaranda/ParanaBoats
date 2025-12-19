@@ -1076,6 +1076,38 @@ Motor: Mercury 15 hp año 2012
     id: 26,
   },
 
+                 {
+    name: "Canestrari 160",
+    price: 16000,
+    description:
+    `
+Ubicada en Paraná
+
+Material: fibra de vidrio
+
+Eslora: 4,9 metros
+Manga: 2 metros
+
+Ecosonda
+Equipo de música
+Ancla
+Defensas
+
+Motor: Yamaha 4 tiempos 115 hp
+
+Todo 2018
+    `,
+    images: [
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1766160619/IMG_20251102_154900_468_ho5dbs.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1766160628/IMG_20251102_154816_710_vkzzpp.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1766160636/IMG_20251102_154921_081_p3hahg.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1766160645/IMG_20251102_154939_771_bpb6or.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1766160653/IMG_20251102_154951_472_udsjke.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1766160661/IMG_20251102_155041_138_mbca02.jpg",
+    ],
+    id: 27,
+  },
+
 ];
 
 
