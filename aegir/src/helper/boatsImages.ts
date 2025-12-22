@@ -433,7 +433,7 @@ Arranque eléctrico
 
    {
     name: "Semirrígido Sail Nautic",
-    price: 12500,
+    price: 11900,
     description:
     `
 Goma 2022
