@@ -1112,6 +1112,36 @@ Todo 2018
     id: 27,
   },
 
+                   {
+    name: "Tecno 430",
+    price: 8000,
+    description:
+    `
+Ubicada en Paraná 
+
+Material: fibra de vidrio 
+
+Año 2006
+
+Eslora: 4,2 metros 
+Manga: 1,7 metros 
+
+Motor: Yamaha 40 hp año 2010
+
+Bomba de achique 
+Ecosonda 
+Luces 
+Lona
+Trailer 
+    `,
+    images: [
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1766863766/WhatsApp_Image_2025-12-17_at_13.51.32yuyuy_obrjlu.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1766863756/WhatsApp_Image_2025-12-17_at_13.51.32yuy_zf9z3v.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1766863748/WhatsApp_Image_2025-12-17_at_13.51.32_t3afpw.jpg",
+    ],
+    id: 28,
+  },
+
 ];
 
 
