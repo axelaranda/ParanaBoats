@@ -398,7 +398,7 @@ Papeles al día
 
     {
     name: "Eclipse 18",
-    price: 15000,
+    price: 13000,
     description:
     `
 Eclipse 18 
