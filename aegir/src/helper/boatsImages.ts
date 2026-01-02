@@ -401,7 +401,7 @@ Papeles al día
     price: 13000,
     description:
     `
-Eclipse 18 
+Ubicada en Paraná
 
 Año 2012
 
