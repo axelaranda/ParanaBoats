@@ -411,7 +411,7 @@ Eslora: 5,36 metros
 Manga: 2,11 metros 
 Puntal: 0,98 metro
 
-Motor: Mercury 115 hp, 2t
+Motor: Mercury 115 hp, 2t año 2007
 
 Trailer 
 
