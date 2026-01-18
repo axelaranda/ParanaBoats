@@ -31,7 +31,7 @@ const Footer = () => {
           />
          </div>
 
-         <h2 className="inline-block text-custom-dark font-poppins text-center mt-6 px-2">Mi nombre es Axel Aranda, estoy en contacto con el río desde los 3 días de vida cuando me llevaban a navegar en el Plenamar 27 de mi abuelo, empecé a navegar en optimist a los 9 años, empecé a competir a los 11, pasé también por láser -ahora llamada ILCA-, navegué en numerosos veleros lastrados y también fui instructor de optimist e ILCA; podría afirmar sin lugar a duda que soy un apasionado de la náutica</h2>
+         <h2 className="inline-block text-custom-dark font-poppins text-center mt-6 px-2">Mi nombre es Axel Aranda, estoy en contacto con el río desde los 3 días de vida cuando me llevaban a navegar en el Plenamar 27 de mi abuelo, empecé a navegar en optimist a los 9 años, empecé a competir a los 11 y participé en campeonatos argentinos, pasé también por láser -ahora llamada ILCA-, navegué en numerosos veleros lastrados y estuve entre otras competencias en las 200 Millas del Río Paraná como timonel, también fui instructor de optimist e ILCA</h2>
 
           <div className="mx-auto w-full sm:w-fit max-w-md px-4 sm:px-2 py-6 text-center text-sm font-poppins leading-relaxed text-custom-dark mt-12 mb-12 break-words whitespace-normal">
             <p>  <a href="https://wa.me/5493435032200" className="text-green-600 hover:text-green-300" target="_blank" rel="noopener noreferrer">WhatsApp</a></p>
