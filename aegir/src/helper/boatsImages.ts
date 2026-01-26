@@ -716,50 +716,6 @@ Motor: Powertec 15 hp 2 tiempos
     id: 17,
   },
 
-   {
-    name: "Mamba 25",
-    price: 46000,
-    description:
-    `
-Ubicado en Paraná 
-
-Material: fibra de vidrio 
-
-Año: 2011
-
-Eslora: 7,5 metros 
-Manga: 2,7 metros 
-Puntal: 1,3 metros 
-
-Motor: Mercruiser 260 hp naftero con 690 hrs
-Transmisión: pata Bravo 3
-
-Interior:
-Camarote doble en proa 
-Baño compartimentado a estribor 
-
-Equipamiento:
-Televisor 
-Ecosonda Garmin
-Radio VHF
-Estereo Pioneer
-Inverter
-Freezer
-Aire acondicionado frío/calor
-
-Toldo cobertor 
-
-Flappers
-    `,
-    images: [
-      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760632861/VENDIDO_1_ers0d5.png",
-      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760629588/IMG-20250719-WA0014_twwrmo.jpg",
-      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760629597/IMG-20250719-WA0011_xiljjh.jpg",
-      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760629606/IMG-20250719-WA0010_nv44pl.jpg",
-    ],
-    id: 18,
-  },
-
      {
     name: "Crucero 34 pies",
     price: 52000,
@@ -813,7 +769,7 @@ Flybridge con espacio para parrilla eléctrica
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760831358/IMG_20251018_173904_241_souhho.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760831368/IMG_20251018_173659_961_bfmvqj.jpg",
     ],
-    id: 19,
+    id: 18,
   },
 
      {
@@ -845,7 +801,7 @@ Bomba de achique
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760716543/Screenshot_20251017-124922_2_qw1auy.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760716536/Screenshot_20251017-124901_2_gpsrza.jpg",
     ],
-    id: 20,
+    id: 19,
   },
 
        {
@@ -887,7 +843,7 @@ Solárium en proa
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760839316/IMG-20251018-WA0021_afj7ns.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760839324/IMG-20251018-WA0019_sbmbs2.jpg",
     ],
-    id: 21,
+    id: 20,
   },
 
          {
@@ -918,7 +874,7 @@ Año 2010
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1761971600/IMG-20251027-WA0011_ff935e.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1761971607/IMG-20251027-WA0010_rly7th.jpg",
     ],
-    id: 22,
+    id: 21,
   },
 
            {
@@ -949,7 +905,7 @@ Año 1999
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1762282913/Imagen_de_WhatsApp_2025-11-04_a_las_11.53.11_aa8872af_tcnqmz.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1762282920/Imagen_de_WhatsApp_2025-11-04_a_las_11.53.12_f33391b4_q3dhhn.jpg",
     ],
-    id: 23,
+    id: 22,
   },
 
              {
@@ -995,7 +951,7 @@ Inodoro eléctrico
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1767655041/IMG_20260105_171336_745_pmbehx.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1767655052/IMG_20260105_171558_062_u6g3i0.jpg",
     ],
-    id: 24,
+    id: 23,
   },
 
                {
@@ -1055,7 +1011,7 @@ Mesa quita y pone con asientos a popa en u
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1762309336/IMG-20250825-WA0018_2_icdvai.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1762309344/IMG-20250825-WA0020_hoqons.jpg",
     ],
-    id: 25,
+    id: 24,
   },
 
                {
@@ -1079,7 +1035,7 @@ Motor: Mercury 15 hp año 2012
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1766085524/WhatsApp_Image_2025-12-17_at_13.50.38_ggxyt3.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1766085533/WhatsApp_Image_2025-12-17_at_13.50.38y_m4yspn.jpg",
     ],
-    id: 26,
+    id: 25,
   },
 
                  {
@@ -1113,7 +1069,7 @@ Todo 2018
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1766160653/IMG_20251102_154951_472_udsjke.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1766160661/IMG_20251102_155041_138_mbca02.jpg",
     ],
-    id: 27,
+    id: 26,
   },
 
                    {
@@ -1143,7 +1099,7 @@ Trailer
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1766863756/WhatsApp_Image_2025-12-17_at_13.51.32yuy_zf9z3v.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1766863748/WhatsApp_Image_2025-12-17_at_13.51.32_t3afpw.jpg",
     ],
-    id: 28,
+    id: 27,
   },
 
 ];
