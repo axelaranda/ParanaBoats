@@ -165,53 +165,6 @@ Transmisión: pata Volvo
   },
 
     {
-    name: "Corcovado 30",
-    price: 28000,
-    description:
-    `
-Año 2000
-Material: fibra de vidrio 
-
-Ubicado en Paraná 
-
-Eslora: 9 metros 
-Manga: 3 metros 
-Altura interior: 1,8 metros 
-Calado: 0,7 metros 
-
-Motor: Perkins diésel 6 cilindros con 400 horas 
-Transmisión: pata Volvo 280
-
-Luces de navegación en buen estado 
-Elementos de seguridad 
-
-Fondo hecho en el 2023
-
-Baño compartimentado 
-Cocina con horno
-Camarote en proa
-Conejera en popa 
-Sillón a babor con mesa
-Sillones a estribor 
-Carpintería en buen estado 
-
-Ecosonda Garmin 
-Cuenta revoluciones 
-
-Bomba de achique en sentina
-    `,
-    images: [
-      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760632870/VENDIDO_bile05.png",
-      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760336818/IMG-20241023-WA0047_ufyjyg.jpg",
-      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760336827/IMG-20241023-WA0045_xexv8y.jpg",
-      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760336837/IMG-20241023-WA0041_meefzr.jpg",
-      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760336846/IMG-20241023-WA0031_zulj16.jpg",
-      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760336854/IMG-20241023-WA0027_skhmfv.jpg",
-    ],
-    id: 4,
-  },
-
-    {
     name: "Ortholan Comando 8",
     price: 30000,
     description:
@@ -666,34 +619,6 @@ Trailer
     id: 15,
   },
 
-        {
-    name: "Quicksilver 555",
-    price: 21000,
-    description:
-    `
-Año 2011
-
-Ubicada en Colón
-
-Motor: Evinrude 135 HO con solo 15 hrs 
-
-Ecosonda 
-Relojería de motor completa
-Toldo 
-Tráiler 
-Equipo de música 
-Power trim
-    `,
-    images: [
-      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760417512/IMG-20250109-WA0023_xveoap.jpg",
-      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760417521/IMG-20250109-WA0021_p77tsg.jpg",
-      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760417531/IMG-20250109-WA0024_qghxb1.jpg",
-      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760417541/IMG-20250109-WA0026_vw6tvr.jpg",
-      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760417548/IMG-20250109-WA0030_ax6ymy.jpg",
-    ],
-    id: 16,
-  },
-
  {
     name: "Kiel 360",
     price: 3500,
@@ -770,38 +695,6 @@ Flybridge con espacio para parrilla eléctrica
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760831368/IMG_20251018_173659_961_bfmvqj.jpg",
     ],
     id: 18,
-  },
-
-     {
-    name: "Nautilus 45",
-    price: 5000,
-    description:
-    `
-Material: fibra de vidrio 
-Año: 2000
-
-Ubicada en Paraná 
-
-Eslora: 4,5 metros 
-Manga: 1,68 metros
-
-Motor: Johnson 50 hp 2 tiempos 
-
-Power trim
-Arranque eléctrico 
-Equipo de sonido con dos parlantes 
-Indicadores de revoluciones y temperatura de motor
-Tanque de nafta 
-Elementos de seguridad
-Bomba de achique
-    `,
-    images: [
-      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760716726/VENDIDA_shk4aj.png",
-      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760716530/Screenshot_20251017-124848_2_klvrs2.jpg",
-      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760716543/Screenshot_20251017-124922_2_qw1auy.jpg",
-      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760716536/Screenshot_20251017-124901_2_gpsrza.jpg",
-    ],
-    id: 19,
   },
 
        {
