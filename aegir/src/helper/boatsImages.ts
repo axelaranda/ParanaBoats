@@ -165,59 +165,6 @@ Transmisión: pata Volvo
   },
 
     {
-    name: "Ortholan Comando 8",
-    price: 30000,
-    description:
-    `
-Ubicado en Paraná 
-
-Año 1985
-
-Eslora: 8 metros 
-Manga: 2,6 metros
-Material: fibra de vidrio
-
-Motor: Volvo Penta diésel 6 cilindros 240 hp
-Transmisión: pata Volvo duo Prop 290
-
-Interior:
-Camarote doble en proa 
-Mesa con sillones a estribor 
-Baño compartimentado con bacha a babor
-Bacha para cubiertos a babor 
-
-Tanque de agua potable 
-
-Equipamiento:
-Conversor de 12 a 220 v
-Anafe
-Horno eléctrico 
-TV led 24 pulgadas 
-Iluminación led
-VHF
-Ecosonda 
-Parrilla náutica 
-Audio Pioneer
-Duchador exterior 
-
-Instalación eléctrica en buen estado 
-
-Último mantenimiento de fondo y pata diciembre 2023
-    `,
-    images: [
-      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760332434/IMG-20250710-WA0014_txj6wh.jpg",
-      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760332444/IMG_20250710_145424_865_d9v1wr.jpg",
-      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760332454/IMG_20250710_144350_616_o8eoly.jpg",
-      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760332467/IMG_20250710_144324_102_ak4toq.jpg",
-      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760332479/IMG_20250710_144306_626_nbjjww.jpg",
-      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760332496/IMG_20250710_144256_052_qumbxc.jpg",
-      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760332506/IMG_20250710_144244_660_pocusw.jpg",
-      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760332517/IMG_20250710_144228_771_iaxrgb.jpg",
-    ],
-    id: 5,
-  },
-
-    {
     name: "Crucero 33 pies",
     price: 30000,
     description:
@@ -264,7 +211,7 @@ Año: 1983
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760332949/IMG_20250830_105424_750_nxru6b.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760332961/IMG_20250830_105410_487_bvblro.jpg",
     ],
-    id: 6,
+    id: 4,
   },
 
     {
@@ -298,7 +245,7 @@ Tráiler
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760333849/IMG_20250322_182951_393_ycf8ni.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760333837/IMG_20250322_183013_573_tyba29.jpg",
     ],
-    id: 7,
+    id: 5,
   },
 
       {
@@ -346,7 +293,7 @@ Papeles al día
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760334330/IMG_20241228_172811_044_j5s3jv.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760334349/IMG_20241228_173756_468_k3uvni.jpg",
     ],
-    id: 8,
+    id: 6,
   },
 
     {
@@ -381,7 +328,7 @@ Arranque eléctrico
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760363293/IMG-20250507-WA0014_up9dco.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760363302/IMG-20250507-WA0013_kclxfn.jpg",
     ],
-    id: 9,
+    id: 7,
   },
 
    {
@@ -414,7 +361,7 @@ Equipado para kite y wake
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760363328/IMG-20250505-WA0024_fsvk1f.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760363338/IMG-20250505-WA0023_hno7zu.jpg",
     ],
-    id: 10,
+    id: 8,
   },
 
      {
@@ -480,7 +427,7 @@ Papeles al día
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760414846/IMG_20250405_182357_846_bdihka.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760414856/IMG_20250405_182343_840_sehuvf.jpg",
     ],
-    id: 11,
+    id: 9,
   },
 
      {
@@ -524,7 +471,7 @@ Instalación eléctrica nueva
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760415340/IMG_20250715_111109_383_yjedta.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760415351/IMG_20250715_110232_389_xje2ox.jpg",
     ],
-    id: 12,
+    id: 10,
   },
 
      {
@@ -557,7 +504,7 @@ Muchos accesorios!
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760415627/IMG-20241110-WA0021_vlvszj.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760415638/IMG-20241110-WA0020_xsavw3.jpg",
     ],
-    id: 13,
+    id: 11,
   },
 
      {
@@ -581,7 +528,7 @@ Homologado ISAF
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760416018/IMG-20250926-WA0032_cq1bwz.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760415998/IMG-20250926-WA0053_pjtuct.jpg",
     ],
-    id: 14,
+    id: 12,
   },
 
       {
@@ -616,7 +563,7 @@ Trailer
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760416352/IMG-20241121-WA0030_fiweic.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760416361/IMG-20241121-WA0031_ez1oq7.jpg",
     ],
-    id: 15,
+    id: 13,
   },
 
  {
@@ -638,7 +585,7 @@ Motor: Powertec 15 hp 2 tiempos
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760457921/Imagen_de_WhatsApp_2025-10-14_a_las_12.48.56_973b874d_t0waxs.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760457928/Imagen_de_WhatsApp_2025-10-14_a_las_12.48.59_78e3280d_v3t2dx.jpg",
     ],
-    id: 17,
+    id: 14,
   },
 
      {
@@ -694,7 +641,7 @@ Flybridge con espacio para parrilla eléctrica
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760831358/IMG_20251018_173904_241_souhho.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760831368/IMG_20251018_173659_961_bfmvqj.jpg",
     ],
-    id: 18,
+    id: 15,
   },
 
        {
@@ -736,7 +683,7 @@ Solárium en proa
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760839316/IMG-20251018-WA0021_afj7ns.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760839324/IMG-20251018-WA0019_sbmbs2.jpg",
     ],
-    id: 20,
+    id: 16,
   },
 
          {
@@ -767,7 +714,7 @@ Año 2010
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1761971600/IMG-20251027-WA0011_ff935e.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1761971607/IMG-20251027-WA0010_rly7th.jpg",
     ],
-    id: 21,
+    id: 17,
   },
 
            {
@@ -798,7 +745,7 @@ Año 1999
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1762282913/Imagen_de_WhatsApp_2025-11-04_a_las_11.53.11_aa8872af_tcnqmz.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1762282920/Imagen_de_WhatsApp_2025-11-04_a_las_11.53.12_f33391b4_q3dhhn.jpg",
     ],
-    id: 22,
+    id: 18,
   },
 
              {
@@ -844,7 +791,7 @@ Inodoro eléctrico
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1767655041/IMG_20260105_171336_745_pmbehx.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1767655052/IMG_20260105_171558_062_u6g3i0.jpg",
     ],
-    id: 23,
+    id: 19,
   },
 
                {
@@ -904,7 +851,7 @@ Mesa quita y pone con asientos a popa en u
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1762309336/IMG-20250825-WA0018_2_icdvai.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1762309344/IMG-20250825-WA0020_hoqons.jpg",
     ],
-    id: 24,
+    id: 20,
   },
 
                {
@@ -928,7 +875,7 @@ Motor: Mercury 15 hp año 2012
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1766085524/WhatsApp_Image_2025-12-17_at_13.50.38_ggxyt3.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1766085533/WhatsApp_Image_2025-12-17_at_13.50.38y_m4yspn.jpg",
     ],
-    id: 25,
+    id: 21,
   },
 
                  {
@@ -962,7 +909,7 @@ Todo 2018
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1766160653/IMG_20251102_154951_472_udsjke.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1766160661/IMG_20251102_155041_138_mbca02.jpg",
     ],
-    id: 26,
+    id: 22,
   },
 
                    {
@@ -992,7 +939,7 @@ Trailer
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1766863756/WhatsApp_Image_2025-12-17_at_13.51.32yuy_zf9z3v.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1766863748/WhatsApp_Image_2025-12-17_at_13.51.32_t3afpw.jpg",
     ],
-    id: 27,
+    id: 23,
   },
 
 ];
