@@ -113,7 +113,7 @@ Instalación eléctrica impecable
 
     {
     name: "Eclipse 19",
-    price: 19000,
+    price: 18000,
     description:
     `
 Material: fibra de vidrio 
