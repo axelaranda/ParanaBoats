@@ -133,7 +133,6 @@ Equipo de sonido
     images: [
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1771034256/WhatsApp_Image_2026-02-13_at_15.21.18_ukbocd.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1771034267/IMG-20260212-WA0007_ijni1d.jpg",
-      "https://res.cloudinary.com/dahmjd1ew/video/upload/v1771034329/Video_Project_12_i4ukx9.mp4",
     ],
     id: 3,
   },
