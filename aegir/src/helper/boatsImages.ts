@@ -123,7 +123,7 @@ Año: 2009
 
 Ubicado en Paraná 
 
-Motorización: Mercury interno 135 hp con 200 hrs
+Motorización: Mercury interno 135 hp, 4 tiempos, con 200 hrs
 Transmisión: pata
 
 Equipamiento:
