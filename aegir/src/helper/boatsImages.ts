@@ -281,6 +281,7 @@ Tráiler
     `
 260 horas de uso 
 Material: aluminio naval 
+Año: 2018
 
 Ubicado en Paraná 
 
