@@ -1,4 +1,4 @@
-import { SiInstagram, SiFacebook, SiTiktok } from "react-icons/si";
+import { SiInstagram, SiTiktok } from "react-icons/si";
 import type { JSX } from "react";
 
 type Props = {
@@ -11,13 +11,12 @@ type Props = {
 };
 
 export default function SocialLinks({
-  instagram, facebook, tiktok,
+  instagram, tiktok,
   size = 28, className = "", utm = ""
 }: Props) {
   const q = utm ? (utm.startsWith("?") ? utm : `?${utm}`) : "";
   const links = [
     instagram && { href: `https://instagram.com/${instagram}${q}`, label: "Instagram", icon: <SiInstagram size={size}/> },
-    facebook  && { href: `https://facebook.com/${facebook}${q}`,   label: "Facebook",  icon: <SiFacebook size={size}/> },
     tiktok    && { href: `https://www.tiktok.com/@${tiktok}${q}`,  label: "TikTok",    icon: <SiTiktok size={size}/> },
   ].filter(Boolean) as {href:string;label:string;icon:JSX.Element}[];
 
