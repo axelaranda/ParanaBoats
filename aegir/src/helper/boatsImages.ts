@@ -112,7 +112,7 @@ Instalación eléctrica impecable
   },
 
     {
-    name: "Eclipse 19",
+    name: "Canestrari 19",
     price: 13500,
     description:
     `
