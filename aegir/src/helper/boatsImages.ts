@@ -969,6 +969,55 @@ Trailer
     id: 24,
   },
 
+                     {
+    name: "Intruder 720",
+    price: 27000,
+    description:
+    `
+Eslora: 7,2 metros
+Manga: 2,45 metro
+Altura interior: 1,8 metros
+
+Año: 2001
+
+Ubicación: Paraná
+
+Motor: DF Volvo Penta 4.2 190 hp V6 naftero
+Transmisión: pata Volvo Penta SX
+
+Material: fibra de vidrio
+
+Interior:
+Baño compartimentado 
+Inodoro eléctrico 
+Anafe 2 hornallas acero inoxidable
+Bacha y mesada 
+Conejera 2 plazas 
+Dinete
+Cama en proa 
+
+Exterior:
+Techo rígido de fibra de vidrio 
+Duchador de popa 
+Iluminación full led 
+
+Equipamiento:
+Ecosonda 
+VHF 
+Instrumental completo 
+Cerramiento completo con sumbrella y cristal 
+Service hecho de motor y pata
+    `,
+    images: [
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1773254788/0b545a0b-23b3-436d-9d72-95e66aaaf778_zr5a0w.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1773254818/b067f55e-eb84-430c-aebc-e1811291b610_qvbfa5.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1773254801/49c63022-ef6f-48b3-bbac-0290f421e782_u1ygmd.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1773254810/1500f8b4-49f6-4518-85db-88d8f17561d4_xsxt0n.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1773254834/f63ed7e2-705e-4796-8b7f-878605fc077b_sqebre.jpg",
+    ],
+    id: 25,
+  },
+
 ];
 
 
