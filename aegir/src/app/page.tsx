@@ -8,10 +8,10 @@ export default function Home() {
 
   return (
     <main className="min-h-dvh !pt-28 !pb-28">
-      <h2 className="font-poppins sm:text-lg md:text-2xl text-center pb-6 px-4">Hacé click en la imagen del barco que te interese para ir al detalle</h2>
+      <h2 className="font-poppins sm:text-lg md:text-2xl text-center pb-6 px-4 mb-20">Hacé click en la imagen del barco que te interese para ir al detalle</h2>
       <section className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mx-6 md:mx-10 lg:mx-20 xl:mx-28">{allProducts.map((product) => {
         return (
-                            <article key={product.name} className="border border-transparent rounded-xl flex flex-col h-[320px] sm:h-[360px] md:h-[500px] lg:h-[600px] 
+                            <article key={product.id} className="border border-transparent rounded-xl flex flex-col h-[320px] sm:h-[360px] md:h-[500px] lg:h-[600px] 
                             overflow-hidden shadow-sm bg-custom-light">                              
                     
                       <div className="relative h-2/3 w-full">
