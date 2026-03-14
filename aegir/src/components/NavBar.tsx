@@ -17,7 +17,7 @@ const NavBar = () => {
             </Link>
         </section>
 
-        <h1 className="hidden sm:block text-2xl md:text-3xl lg:text-4xl font-poppins text-custom-dark [text-shadow:_2px_2px_0_#4b5563] p-1 px-3 text-center mx-auto truncate">Encontrá la embarcación que estabas buscando</h1>
+        <h1 className="hidden sm:block text-4xl md:text-5xl lg:text-6xl font-poppins text-custom-dark [text-shadow:_2px_2px_0_#4b5563] p-1 px-3 text-center mx-auto truncate">Encontrá la embarcación que estabas buscando</h1>
 
         <div className="flex md:flex items-center justify-center w-full md:w-auto">
           <SocialLinks
