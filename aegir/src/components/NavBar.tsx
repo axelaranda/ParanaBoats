@@ -16,13 +16,14 @@ const NavBar = () => {
             <Image src={miLogo} alt="Logo" width={65} height={65} className="rounded-xl transition duration-300 ease-in-out group-hover:brightness-200" priority/>
             </Link>
         </section>
-
-        <h1 className="hidden sm:block text-4xl md:text-5xl lg:text-6xl font-poppins text-custom-dark [text-shadow:_2px_2px_0_#4b5563] p-1 px-3 text-center mx-auto truncate">Encontrá la embarcación que estabas buscando</h1>
+        
+        <div className="overflow-x-auto">
+        <h1 className="whitespace-nowrap inline-block text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-poppins text-custom-dark [text-shadow:_2px_2px_0_#4b5563] p-1 px-3 text-center mx-auto">Encontrá la embarcación que estabas buscando</h1>
+        </div>
 
         <div className="flex md:flex items-center justify-center w-full md:w-auto">
           <SocialLinks
             instagram="parana.boats"
-            facebook="parana.boats"
             tiktok="parana.boats"
             className="flex items-center gap-2"
             utm="utm_source=web&utm_medium=navbar"
@@ -31,14 +32,9 @@ const NavBar = () => {
  
         </nav>
 
-        <div className="sm:hidden px-4 pb-3">
-        <h1 className="text-2xl font-poppins text-custom-dark [text-shadow:_2px_2px_0_#4b5563] p-1 px-3 text-center">
-          Encontrá la embarcación que estabas buscando
-        </h1>
-        </div>
-
         </header>
     )
 }
 
 export default NavBar
+

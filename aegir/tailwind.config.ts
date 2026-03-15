@@ -7,7 +7,17 @@ const config: Config = {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},        
+    extend: {
+            keyframes: {
+        scroll: {
+          "0%": { transform: "translateX(0)" },
+          "100%": { transform: "translateX(-50%)" }
+        }
+      },
+      animation: {
+        scroll: "scroll 30s linear infinite"
+      }
+    },        
   },
   plugins: [],
   // @ts-expect-error – Tailwind safelist no está tipado pero funciona
@@ -23,3 +33,4 @@ const config: Config = {
 };
 
 export default config;
+

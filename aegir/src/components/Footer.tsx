@@ -11,7 +11,7 @@ const Footer = () => {
     
         <h1 className="inline-block text-custom-dark [text-shadow:_2px_2px_0_#4b5563] font-poppins text-2xl text-center px-3">La libertad de navegar
         </h1>
-        <h2 className="inline-block text-custom-dark [text-shadow:_2px_2px_0_#4b5563] font-poppins text-xl text-center px-2 mt-6">Mi principal preocupación es que puedas encontrar sin problemas la embarcación que tanto deseas y disfrutar de la mejor experiencia de compra, Paraná Boats: profesionalismo y transparencia</h2>
+        <h2 className="inline-block text-custom-dark [text-shadow:_2px_2px_0_#4b5563] font-poppins text-xl text-center px-2 mt-6">Mi principal preocupación es que puedas encontrar sin problemas la embarcación que tanto deseas al mejor precio posible, Paraná Boats: profesionalismo y transparencia</h2>
          
          <div className="w-full flex justify-center mt-6">
           <Link href="/" className="inline-block rounded-xl transition duration-300 ease-in-out group">
