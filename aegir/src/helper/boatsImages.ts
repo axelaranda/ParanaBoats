@@ -326,7 +326,7 @@ Papeles al día
   },
 
     {
-    name: "Eclipse 18",
+    name: "Eclipse 18, SIN MOTOR, SOLO CASCO",
     price: 10000,
     description:
     `
