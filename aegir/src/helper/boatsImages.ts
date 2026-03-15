@@ -10,7 +10,7 @@ export const boats: Boats[] = [
 
   {
     name: "Intruder 720",
-    price: 29.000,
+    price: 29000,
     description:
 `
 Eslora: 7,2 metros
@@ -68,7 +68,7 @@ Pata totalmente repasada
 
   {
     name: "Nautiglass C25",
-    price: 26.000,
+    price: 26000,
     description:
     `
 Material: fibra de vidrio 
@@ -113,7 +113,7 @@ Instalación eléctrica impecable
 
     {
     name: "Canestrari 19",
-    price: 13.500,
+    price: 13500,
     description:
     `
 Material: fibra de vidrio 
@@ -141,7 +141,7 @@ Equipo de sonido
 
   {
     name: "Tarrab Atlántico",
-    price: 65.000,
+    price: 65000,
     description:
     `
 Ubicado en Paraná 
@@ -194,7 +194,7 @@ Transmisión: pata Volvo
 
     {
     name: "Crucero 33 pies",
-    price: 30.000,
+    price: 30000,
     description:
     `
 Ubicado en Paraná 
@@ -244,7 +244,7 @@ Año: 1983
 
     {
     name: "Huracán 460",
-    price: 8.500,
+    price: 8500,
     description:
     `
 Año 2006
@@ -278,7 +278,7 @@ Tráiler
 
       {
     name: "Pontoon Lerch 21",
-    price: 32.000,
+    price: 32000,
     description:
     `
 260 horas de uso 
@@ -327,7 +327,7 @@ Papeles al día
 
     {
     name: "Eclipse 18, SIN MOTOR, SOLO CASCO",
-    price: 10.000,
+    price: 10000,
     description:
     `
 SOLO CASCO, EL MOTOR YA SE VENDIÓ
@@ -362,7 +362,7 @@ Arranque eléctrico
 
    {
     name: "Semirrígido Sail Nautic",
-    price: 11.900,
+    price: 11900,
     description:
     `
 Goma 2022
@@ -395,7 +395,7 @@ Equipado para kite y wake
 
      {
     name: "Dangelo 30",
-    price: 32.000,
+    price: 32000,
     description:
     `
 Año 1984    
@@ -461,7 +461,7 @@ Papeles al día
 
      {
     name: "Ponyriver 760",
-    price: 34.000,
+    price: 34000,
     description:
     `
 Eslora: 7,6 metros 
@@ -505,7 +505,7 @@ Instalación eléctrica nueva
 
      {
     name: "Bermuda 175",
-    price: 15.900,
+    price: 15900,
     description:
     `
 Año 1998
@@ -538,7 +538,7 @@ Muchos accesorios!
 
      {
     name: "Optimist",
-    price: 1.500,
+    price: 1500,
     description:
     `
 Material: fibra de vidrio
@@ -562,7 +562,7 @@ Homologado ISAF
 
       {
     name: "Atuel 460",
-    price: 9.000,
+    price: 9000,
     description:
     `
 Ubicada en Paraná 
@@ -597,7 +597,7 @@ Trailer
 
  {
     name: "Kiel 360",
-    price: 3.500,
+    price: 3500,
     description:
     `
 Goma año 2020
@@ -619,7 +619,7 @@ Motor: Powertec 15 hp 2 tiempos
 
      {
     name: "Crucero 34 pies",
-    price: 52.000,
+    price: 52000,
     description:
     `
 Ubicado en Paraná 
@@ -675,7 +675,7 @@ Flybridge con espacio para parrilla eléctrica
 
        {
     name: "Canestrari 235",
-    price: 45.000,
+    price: 45000,
     description:
     `
 Material: fibra de vidrio 
@@ -717,7 +717,7 @@ Solárium en proa
 
          {
     name: "F18",
-    price: 4.500,
+    price: 4500,
     description:
     `
 Ubicado en Paraná 
@@ -748,7 +748,7 @@ Año 2010
 
            {
     name: "Tecno 430",
-    price: 6.000,
+    price: 6000,
     description:
     `
 Ubicado en Paraná 
@@ -779,7 +779,7 @@ Año 1999
 
              {
     name: "Grandjean",
-    price: 25.000,
+    price: 25000,
     description:
     `
 Ubicado en Paraná 
@@ -825,7 +825,7 @@ Inodoro eléctrico
 
                {
     name: "Grandjean",
-    price: 29.000,
+    price: 29000,
     description:
     `
 Año: 1988
@@ -885,7 +885,7 @@ Mesa quita y pone con asientos a popa en u
 
                {
     name: "Ideal 400",
-    price: 3.800,
+    price: 3800,
     description:
     `
 Ubicada en Paraná 
@@ -909,7 +909,7 @@ Motor: Mercury 15 hp año 2012
 
                  {
     name: "Canestrari 160",
-    price: 16.000,
+    price: 16000,
     description:
     `
 Ubicada en Paraná
@@ -943,7 +943,7 @@ Todo 2018
 
                    {
     name: "Tecno 430",
-    price: 8.000,
+    price: 8000,
     description:
     `
 Ubicada en Paraná 
@@ -973,7 +973,7 @@ Trailer
 
                      {
     name: "Intruder 720",
-    price: 27.000,
+    price: 27000,
     description:
     `
 Eslora: 7,2 metros

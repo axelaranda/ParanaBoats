@@ -35,7 +35,7 @@ export default function BoatDetail() {
           text={boatData.description}
           initialLines={4}
           />
-          <p className="text-3xl font-roboto mt-3 text-custom-dark">USD {boatData.price}</p>
+          <p className="text-3xl font-roboto mt-3 text-custom-dark">USD {boatData.price.toLocaleString("es-AR")}</p>
 
         </div>
       
