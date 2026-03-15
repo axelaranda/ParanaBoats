@@ -327,9 +327,11 @@ Papeles al día
 
     {
     name: "Eclipse 18",
-    price: 13000,
+    price: 10000,
     description:
     `
+SOLO CASCO, EL MOTOR YA SE VENDIÓ
+
 Ubicada en Paraná
 
 Año 2012
@@ -339,8 +341,6 @@ Material: fibra de vidrio
 Eslora: 5,36 metros 
 Manga: 2,11 metros 
 Puntal: 0,98 metro
-
-Motor: Mercury 115 hp, 2t año 2007
 
 Trailer 
 
