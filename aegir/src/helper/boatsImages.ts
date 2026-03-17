@@ -548,6 +548,9 @@ Año:2011
 Flotadores casi nuevos
 Funda completa
 Vela de competición
+Aparejo
+Orza
+Timón
 
 Homologado ISAF
     `,
