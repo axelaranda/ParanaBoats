@@ -10,7 +10,7 @@ export const boats: Boats[] = [
 
   {
     name: "Intruder 720",
-    price: 29000,
+    price: 31500,
     description:
 `
 Eslora: 7,2 metros
