@@ -34,6 +34,7 @@ Equipo de audio de alta capacidad
 Mesa
     `,
     images: [
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1774033225/WhatsApp_Image_2026-03-12_at_15.22.22_lvnzis.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1773966996/WhatsApp_Image_2026-03-1223423_at_15.22.22_nao3ur.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1773967009/WhatsApp_Image_2026-03-12_at_15.22.21_cxu1wl.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1773967018/WhatsApp_Image_2026-03-12_at_15.22.23_agu0et.jpg",
