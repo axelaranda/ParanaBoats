@@ -943,40 +943,6 @@ Motor: Mercury 15 HP año 2012
     id: 23,
   },
 
-                 {
-    name: "Canestrari 160",
-    price: 16000,
-    description:
-    `
-Ubicada en Paraná
-
-Material: fibra de vidrio
-
-Eslora: 4,9 metros
-Manga: 2 metros
-
-Ecosonda
-Equipo de música
-Ancla
-Defensas
-Power trim
-Trailer
-
-Motor: Yamaha 4 tiempos 115 HP
-
-Todo 2018
-    `,
-    images: [
-      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1766160619/IMG_20251102_154900_468_ho5dbs.jpg",
-      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1766160628/IMG_20251102_154816_710_vkzzpp.jpg",
-      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1766160636/IMG_20251102_154921_081_p3hahg.jpg",
-      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1766160645/IMG_20251102_154939_771_bpb6or.jpg",
-      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1766160653/IMG_20251102_154951_472_udsjke.jpg",
-      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1766160661/IMG_20251102_155041_138_mbca02.jpg",
-    ],
-    id: 24,
-  },
-
                    {
     name: "Tecno 430",
     price: 8000,
@@ -1004,7 +970,7 @@ Trailer
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1766863756/WhatsApp_Image_2025-12-17_at_13.51.32yuy_zf9z3v.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1766863748/WhatsApp_Image_2025-12-17_at_13.51.32_t3afpw.jpg",
     ],
-    id: 25,
+    id: 24,
   },
 
                      {
@@ -1053,7 +1019,7 @@ Service hecho de motor y pata
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1773254810/1500f8b4-49f6-4518-85db-88d8f17561d4_xsxt0n.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1773254834/f63ed7e2-705e-4796-8b7f-878605fc077b_sqebre.jpg",
     ],
-    id: 26,
+    id: 25,
   },
 
 ];
