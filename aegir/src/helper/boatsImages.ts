@@ -480,7 +480,7 @@ Instalación eléctrica recién renovada
 Papeles al día 
     `,
     images: [
-      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760414866/FB_IMG_1760409172606_gme2uh.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1774034096/FB_IMG_1760409172606_gme2uh_rieesc.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760414787/IMG_20250405_183111_088_ie2yus.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760414796/IMG_20250405_182946_900_fz60eb.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760414805/IMG_20250405_182936_203_p0uuia.jpg",
