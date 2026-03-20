@@ -8,7 +8,40 @@ export type Boats = {
 
 export const boats: Boats[] = [
 
-  {
+
+   {
+    name: "Eclipse 21",
+    price: 31000,
+    description:
+    `
+Eclipse 21 sport
+
+Motor: Mercury 150 HP 4 tiempos con poco más de 60 hrs
+
+Ubicada en Paraná
+
+Material: fibra de vidrio
+Eslora: 6,3 metros
+Manga: 2,25 metros
+Puntal: 1,24 metros
+Capacidad de pasajeros: 8 
+
+Instrumental completo
+Ecosonda
+Interiores en camel
+Bimini
+Equipo de audio de alta capacidad
+Mesa
+    `,
+    images: [
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1773966996/WhatsApp_Image_2026-03-1223423_at_15.22.22_nao3ur.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1773967009/WhatsApp_Image_2026-03-12_at_15.22.21_cxu1wl.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1773967018/WhatsApp_Image_2026-03-12_at_15.22.23_agu0et.jpg",
+    ],
+    id: 1,
+  },
+
+    {
     name: "Intruder 720",
     price: 31500,
     description:
@@ -21,7 +54,7 @@ Material: fibra de vidrio
 Ubicado en Paraná 
 
 Motorización:
-Volvo diésel 150hp
+Volvo diésel 150 HP
 Transmisión:
 Pata Volvo 
 
@@ -63,7 +96,7 @@ Pata totalmente repasada
     "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760291381/IMG-20241031-WA0011_ahoa0l.jpg",
     "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760291304/IMG-20241031-WA0013_gfffnz.jpg",
     ],
-    id: 1,
+    id: 2,
   },
 
   {
@@ -79,7 +112,7 @@ Año: 1977
 
 Ubicado en Paraná 
 
-Motorización: Toyota diésel marino cadenero de 90 hp del año 2000 con 404 horas
+Motorización: Toyota diésel marino cadenero de 90 HP del año 2000 con poco más de 404 horas
 Transmisión: pata Volvo 280
 
 Equipamiento:
@@ -108,7 +141,7 @@ Instalación eléctrica impecable
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760331018/IMG_20241115_181618_807_kwqyn6.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760331032/IMG_20241115_181456_164_wv6p7k.jpg",
     ],
-    id: 2,
+    id: 3,
   },
 
     {
@@ -123,7 +156,7 @@ Año: 2009
 
 Ubicado en Paraná 
 
-Motorización: Mercury interno 135 hp, 4 tiempos, con 200 hrs
+Motorización: Mercury interno 135 HP, 4 tiempos, con 200 hrs
 Transmisión: pata
 
 Equipamiento:
@@ -136,7 +169,7 @@ Equipo de sonido
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1773421383/WhatsApp_Image_2026-03-12_at_20.08.16_u5okxf.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1773421374/WhatsApp_Image_2026-03-12_at_19.40.09_io1o6b.jpg",
     ],
-    id: 3,
+    id: 4,
   },
 
   {
@@ -175,7 +208,7 @@ Bow thruster
 
 Iluminación interior y de navegación 
 
-Motorización: dos Volvo Penta diésel de 280 hp
+Motorización: dos Volvo Penta diésel de 280 HP
 Transmisión: pata Volvo
     `,
     images: [
@@ -189,7 +222,7 @@ Transmisión: pata Volvo
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760332015/IMG_20250329_174656_381_ro77ps.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760332003/IMG_20250329_174751_267_xmanxq.jpg",
     ],
-    id: 4,
+    id: 5,
   },
 
     {
@@ -239,7 +272,7 @@ Año: 1983
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760332949/IMG_20250830_105424_750_nxru6b.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760332961/IMG_20250830_105410_487_bvblro.jpg",
     ],
-    id: 5,
+    id: 6,
   },
 
     {
@@ -255,7 +288,7 @@ Material: fibra de vidrio
 Eslora: 4,3 metros 
 Manga: 1,7 metros 
 
-Motorización: Yamaha 70hp
+Motorización: Yamaha 70 HP
 
 Estéreo 
 Power trim
@@ -273,7 +306,7 @@ Tráiler
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760333849/IMG_20250322_182951_393_ycf8ni.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760333837/IMG_20250322_183013_573_tyba29.jpg",
     ],
-    id: 6,
+    id: 7,
   },
 
       {
@@ -291,7 +324,7 @@ Eslora: 6,3 metros
 Manga: 2,45 metros 
 Calado del casco: 0,3 metro
 
-Motorización: Mercury 60 hp pata larga 4 tiempos etiqueta eco
+Motorización: Mercury 60 HP pata larga 4 tiempos etiqueta eco
 Tanque de combustible: 50 litros 
 
 Equipamiento:
@@ -322,7 +355,7 @@ Papeles al día
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760334330/IMG_20241228_172811_044_j5s3jv.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760334349/IMG_20241228_173756_468_k3uvni.jpg",
     ],
-    id: 7,
+    id: 8,
   },
 
     {
@@ -357,7 +390,7 @@ Arranque eléctrico
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760363293/IMG-20250507-WA0014_up9dco.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760363302/IMG-20250507-WA0013_kclxfn.jpg",
     ],
-    id: 8,
+    id: 9,
   },
 
    {
@@ -369,7 +402,7 @@ Goma 2022
 Casco 2007
 Motor 2003
 
-Motor: Mercury 50 hp 4t 
+Motor: Mercury 50 HP 4 tiempos
 
 Trailer doble eje
 
@@ -390,7 +423,7 @@ Equipado para kite y wake
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760363328/IMG-20250505-WA0024_fsvk1f.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760363338/IMG-20250505-WA0023_hno7zu.jpg",
     ],
-    id: 9,
+    id: 10,
   },
 
      {
@@ -407,7 +440,7 @@ Manga: 3,2 metros
 Calado: 1,8 metros 
 Altura interior: 1,8 metros 
 
-Motor: Volvo diésel de 18 hp
+Motor: Volvo diésel de 18 HP
 Transmisión: pata saildrive
 
 Enrollador de proa 
@@ -456,7 +489,7 @@ Papeles al día
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760414846/IMG_20250405_182357_846_bdihka.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760414856/IMG_20250405_182343_840_sehuvf.jpg",
     ],
-    id: 10,
+    id: 11,
   },
 
      {
@@ -474,8 +507,8 @@ Material: fibra de vidrio
 
 Ubicado en Paraná 
 
-Motor principal: Evinrude 90 hp
-Motor auxiliar: Johnson 10 hp
+Motor principal: Evinrude 90 HP
+Motor auxiliar: Johnson 10 HP
 
 Interior:
 Camarote doble en proa 
@@ -500,7 +533,7 @@ Instalación eléctrica nueva
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760415340/IMG_20250715_111109_383_yjedta.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760415351/IMG_20250715_110232_389_xje2ox.jpg",
     ],
-    id: 11,
+    id: 12,
   },
 
      {
@@ -516,7 +549,7 @@ Material: fibra de vidrio
 Eslora: 5,2 metros 
 Manga: 2,1 metros 
 
-Motor Mariner 150 hp del año 2018 con 182 hrs 
+Motor Mariner 150 HP del año 2018 con 182 hrs 
 
 Power trim
 Trailer 
@@ -533,7 +566,7 @@ Muchos accesorios!
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760415627/IMG-20241110-WA0021_vlvszj.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760415638/IMG-20241110-WA0020_xsavw3.jpg",
     ],
-    id: 12,
+    id: 13,
   },
 
      {
@@ -560,7 +593,7 @@ Homologado ISAF
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760416018/IMG-20250926-WA0032_cq1bwz.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760415998/IMG-20250926-WA0053_pjtuct.jpg",
     ],
-    id: 13,
+    id: 14,
   },
 
       {
@@ -575,7 +608,7 @@ Año 2019
 Eslora: 4,6 metros 
 Manga: 1,7 metros 
 
-Motor: Yamaha 70 hp con power trim
+Motor: Yamaha 70 HP con power trim
 
 Material fibra de vidrio 
 
@@ -595,7 +628,7 @@ Trailer
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760416352/IMG-20241121-WA0030_fiweic.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760416361/IMG-20241121-WA0031_ez1oq7.jpg",
     ],
-    id: 14,
+    id: 15,
   },
 
  {
@@ -610,14 +643,14 @@ Manga: 1,5 metros
 
 Trailer
 
-Motor: Powertec 15 hp 2 tiempos
+Motor: Powertec 15 HP 2 tiempos
     `,
     images: [
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760457913/Imagen_de_WhatsApp_2025-10-14_a_las_12.48.57_b6da874e_cdk8kk.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760457921/Imagen_de_WhatsApp_2025-10-14_a_las_12.48.56_973b874d_t0waxs.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760457928/Imagen_de_WhatsApp_2025-10-14_a_las_12.48.59_78e3280d_v3t2dx.jpg",
     ],
-    id: 15,
+    id: 16,
   },
 
      {
@@ -635,7 +668,7 @@ Eslora: 10,32 metros
 Manga: 3,17 metros 
 Puntal: 1,5 metros 
 
-Motores: 2 Hyundai diésel de 100 hp
+Motores: 2 Hyundai diésel de 100 HP
 Transmisión: línea de ejes
 
 Interior:
@@ -673,7 +706,7 @@ Flybridge con espacio para parrilla eléctrica
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760831358/IMG_20251018_173904_241_souhho.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760831368/IMG_20251018_173659_961_bfmvqj.jpg",
     ],
-    id: 16,
+    id: 17,
   },
 
        {
@@ -688,7 +721,7 @@ Manga: 2,55 metros
 
 Año: 2014
 
-Motorización: Volvo Penta 230 hp nafta
+Motorización: Volvo Penta 230 HP nafta
 Transmisión: pata Volvo duo prop
 
 Camarote 
@@ -715,7 +748,7 @@ Solárium en proa
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760839316/IMG-20251018-WA0021_afj7ns.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760839324/IMG-20251018-WA0019_sbmbs2.jpg",
     ],
-    id: 17,
+    id: 18,
   },
 
          {
@@ -746,7 +779,7 @@ Año 2010
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1761971600/IMG-20251027-WA0011_ff935e.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1761971607/IMG-20251027-WA0010_rly7th.jpg",
     ],
-    id: 18,
+    id: 19,
   },
 
            {
@@ -761,7 +794,7 @@ Material: fibra de vidrio
 Eslora: 4,2 metros 
 Manga: 1,7 metros 
 
-Motor: Yamaha 60 hp
+Motor: Yamaha 60 HP
 
 Arranque eléctrico
 Lona cobertora
@@ -777,7 +810,7 @@ Año 1999
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1762282913/Imagen_de_WhatsApp_2025-11-04_a_las_11.53.11_aa8872af_tcnqmz.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1762282920/Imagen_de_WhatsApp_2025-11-04_a_las_11.53.12_f33391b4_q3dhhn.jpg",
     ],
-    id: 19,
+    id: 20,
   },
 
              {
@@ -823,7 +856,7 @@ Inodoro eléctrico
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1767655041/IMG_20260105_171336_745_pmbehx.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1767655052/IMG_20260105_171558_062_u6g3i0.jpg",
     ],
-    id: 20,
+    id: 21,
   },
 
                {
@@ -842,8 +875,7 @@ Calado: 0,70 metros
 
 Material: fibra de vidrio
 
-Motor: Vetus diésel 4 cilindros 
-Hp: 32
+Motor: Vetus diésel 4 cilindros de 32 HP
 Transmisión: línea de eje
 
 Tanque de combustible: 200 lts.
@@ -883,7 +915,7 @@ Mesa quita y pone con asientos a popa en u
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1762309336/IMG-20250825-WA0018_2_icdvai.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1762309344/IMG-20250825-WA0020_hoqons.jpg",
     ],
-    id: 21,
+    id: 22,
   },
 
                {
@@ -900,14 +932,14 @@ Manga: 1,6 metros
 
 Año: 2019
 
-Motor: Mercury 15 hp año 2012
+Motor: Mercury 15 HP año 2012
     `,
     images: [
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1766085540/WhatsApp_Image_2025-12-17_at_13.50.38yuy_y5j4fn.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1766085524/WhatsApp_Image_2025-12-17_at_13.50.38_ggxyt3.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1766085533/WhatsApp_Image_2025-12-17_at_13.50.38y_m4yspn.jpg",
     ],
-    id: 22,
+    id: 23,
   },
 
                  {
@@ -929,7 +961,7 @@ Defensas
 Power trim
 Trailer
 
-Motor: Yamaha 4 tiempos 115 hp
+Motor: Yamaha 4 tiempos 115 HP
 
 Todo 2018
     `,
@@ -941,7 +973,7 @@ Todo 2018
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1766160653/IMG_20251102_154951_472_udsjke.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1766160661/IMG_20251102_155041_138_mbca02.jpg",
     ],
-    id: 23,
+    id: 24,
   },
 
                    {
@@ -958,7 +990,7 @@ Año 2006
 Eslora: 4,2 metros 
 Manga: 1,7 metros 
 
-Motor: Yamaha 40 hp año 2010
+Motor: Yamaha 40 HP año 2010
 
 Bomba de achique 
 Ecosonda 
@@ -971,7 +1003,7 @@ Trailer
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1766863756/WhatsApp_Image_2025-12-17_at_13.51.32yuy_zf9z3v.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1766863748/WhatsApp_Image_2025-12-17_at_13.51.32_t3afpw.jpg",
     ],
-    id: 24,
+    id: 25,
   },
 
                      {
@@ -987,7 +1019,7 @@ Año: 2001
 
 Ubicación: Paraná
 
-Motor: DF Volvo Penta 4.2 190 hp V6 naftero
+Motor: DF Volvo Penta 4.2 190 HP V6 naftero
 Transmisión: pata Volvo Penta SX
 
 Material: fibra de vidrio
@@ -1020,7 +1052,7 @@ Service hecho de motor y pata
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1773254810/1500f8b4-49f6-4518-85db-88d8f17561d4_xsxt0n.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1773254834/f63ed7e2-705e-4796-8b7f-878605fc077b_sqebre.jpg",
     ],
-    id: 25,
+    id: 26,
   },
 
 ];
