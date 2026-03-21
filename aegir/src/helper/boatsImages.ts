@@ -974,7 +974,7 @@ Trailer
   },
 
                      {
-    name: "Intruder 720",
+    name: "Nautiglass 750",
     price: 27000,
     description:
     `
