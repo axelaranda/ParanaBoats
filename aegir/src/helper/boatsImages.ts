@@ -147,7 +147,7 @@ Instalación eléctrica impecable
 
     {
     name: "Canestrari 19",
-    price: 13500,
+    price: 14000,
     description:
     `
 Material: fibra de vidrio 
