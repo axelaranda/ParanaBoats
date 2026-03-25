@@ -1119,6 +1119,7 @@ Ecosonda
 Lona de recubrimiento completa
 Bimini
 Ancla
+Power trim
 
 Año 2013
 
