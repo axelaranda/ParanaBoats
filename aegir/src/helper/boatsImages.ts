@@ -54,6 +54,8 @@ Manga: 2,45 metros
 Altura interior: 1,8 metros 
 Material: fibra de vidrio 
 
+Año 1995
+
 Ubicado en Paraná 
 
 Motorización:
