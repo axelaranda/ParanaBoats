@@ -403,6 +403,8 @@ Goma 2022
 Casco 2007
 Motor 2003
 
+Ubicado en Paraná
+
 Motor: Mercury 50 HP 4 tiempos
 
 Trailer doble eje
@@ -435,6 +437,8 @@ Equipado para kite y wake
 Año 1984    
 
 Material: fibra de vidrio 
+
+Ubicado en Paraná
 
 Eslora: 9 metros 
 Manga: 3,2 metros 
@@ -577,6 +581,8 @@ Muchos accesorios!
     `
 Material: fibra de vidrio
 
+Ubicado en Paraná
+
 Año:2011
 
 Flotadores casi nuevos
@@ -638,6 +644,8 @@ Trailer
     description:
     `
 Goma año 2020
+
+Ubicado en Paraná
 
 Eslora: 3,6 metros
 Manga: 1,5 metros
@@ -716,6 +724,8 @@ Flybridge con espacio para parrilla eléctrica
     description:
     `
 Material: fibra de vidrio 
+
+Ubicada en Paraná
 
 Eslora: 7,15 metros 
 Manga: 2,55 metros 
@@ -1024,6 +1034,62 @@ Service hecho de motor y pata
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1774298166/WhatsApp_Image_2026dfgdgf-03-23_at_17.23.11_svgbcz.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1774298175/WhatsApp_Image_2026-fhfghf-23_at_17.23.13_hesulx.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1774298189/WdhdfghfdghhatsApp_Image_2026-03-23_at_17.23.13_ahonpn.jpg",   
+    ],
+    id: 25,
+  },
+
+                     {
+    name: "Custon Special",
+    price: 67000,
+    description:
+    `
+Ubicado en Paraná
+
+Material: fibra de vidrio
+Eslora: 9,18 metros
+Manga: 2,85 metros
+Calado: 0,7 metros
+
+Motor: Volvo V6 4.3 naftero
+Transmisión: pata Volvo duoprop
+
+Interior:
+Camarote doble en prop
+Cama doble en popa
+Dinette
+Cocina
+Baño compartimentado 
+Duchador agua caliente y fría 
+Planchada en popa con duchador
+
+Equipamiento:
+TV led
+Antena digital
+Audio 4 parlantes
+Faro con control remoto
+Inverter
+Cargador de batería automático
+Grupo electrógeno Honda
+Carpa Sunbrella completa
+Power trim
+Bomba de achique
+Flaps hidráulicos 
+Malacate eléctrico
+Extractor de gases
+
+Instrumental:
+VHF
+Ecosonda color
+Compás
+    `,
+    images: [
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1774454834/WhatsApp_Imageertert_2026-03-25_at_12.30.50_d34jfv.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1774454842/WhatsApp_ertert2026-03-25_at_12.30.51_eotfq1.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1774454909/WhatsApp_Imfghfghage_2026-03-25_at_12.30.49_ptwvbv.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1774454900/WhatsApp_Image_2026-03-25_at_12.30.49_h2xhml.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1774454885/WhatsAertertpp_Image_2026-03-25_at_12.30.50_yqwoyf.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1774454942/WhatsertertApp_Image_2026-03-25_at_12.30.50_yogcgv.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1774454934/WhatsApp_rtyrtyrty2026-03-25_at_12.30.50_sdfnzl.jpg",
     ],
     id: 25,
   },
