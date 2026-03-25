@@ -20,6 +20,8 @@ Motor: Mercury 150 HP 4 tiempos con poco más de 60 hrs
 
 Ubicada en Paraná
 
+Año 2025
+
 Material: fibra de vidrio
 Eslora: 6,3 metros
 Manga: 2,25 metros
@@ -106,9 +108,11 @@ Pata totalmente repasada
     description:
     `
 Material: fibra de vidrio 
+
 Eslora: 7,5 metros
 Manga: 2,9 metros
 Altura interior: 1,8 metros
+
 Año: 1977
 
 Ubicado en Paraná 
@@ -153,6 +157,7 @@ Instalación eléctrica impecable
 Material: fibra de vidrio 
 Eslora: 5,7 metros
 Manga: 2,25 metros
+
 Año: 2009
 
 Ubicado en Paraná 
@@ -183,6 +188,7 @@ Ubicado en Paraná
 Generosa altura interior
 
 Año: 1998
+
 Material: fibra de vidrio 
 
 Eslora: 11,1 metros 
@@ -317,6 +323,7 @@ Tráiler
     `
 260 horas de uso 
 Material: aluminio naval 
+
 Año: 2018
 
 Ubicado en Paraná 
@@ -583,7 +590,7 @@ Material: fibra de vidrio
 
 Ubicado en Paraná
 
-Año:2011
+Año: 2011
 
 Flotadores casi nuevos
 Funda completa
@@ -1050,6 +1057,8 @@ Eslora: 9,18 metros
 Manga: 2,85 metros
 Calado: 0,7 metros
 
+Año: 2004
+
 Motor: Volvo V6 4.3 naftero
 Transmisión: pata Volvo duoprop
 
@@ -1092,6 +1101,36 @@ Compás
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1774454934/WhatsApp_rtyrtyrty2026-03-25_at_12.30.50_sdfnzl.jpg",
     ],
     id: 26,
+  },
+
+                     {
+    name: "Cargo 520",
+    price: 10000,
+    description:
+    `
+Eslora: 5,3 metros
+Manga:  1,9 metros
+
+Material: fibra de vidrio
+
+Ubicada en Paraná
+
+Ecosonda
+Lona de recubrimiento completa
+Bimini
+Ancla
+
+Año 2013
+
+Motor: Evinrude 60 HP 2 tiempos
+    `,
+    images: [
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1774468270/WhatsApwerwerp_Image_2026-03-24_at_11.21.50_euhjfh.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1774468279/WhatsApp_Image_2026-03-24_at_11.21.50_xn6n9q.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1774468288/WhatsApp_Image_2026-werwer-24_at_11.46.58_ntcjvv.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1774468296/WhatsApp_Imawerwerge_2026-03-24_at_11.46.58_ds0zsl.jpg",
+    ],
+    id: 27,
   },
 
 ];
