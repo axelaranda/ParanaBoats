@@ -12,7 +12,7 @@ export default function Home() {
     <div>
     <TopCarousel images={carouselImages}/>
     <main className="min-h-dvh !pb-28">
-      <h2 className="w-fit mx-auto font-poppins text-3xl md:text-4xl lg:text-5xl text-center text-custom-dark [text-shadow:_2px_2px_0_#4b5563]">Deslizá hacia abajo</h2>
+      <h2 className="w-fit mx-auto font-poppins text-3xl md:text-4xl lg:text-5xl text-center px-2 text-custom-dark [text-shadow:_2px_2px_0_#4b5563]">Deslizá hacia abajo</h2>
       <p className="font-poppins text-center text-6xl font-extrabold mb-28">↓</p>
       <h2 className="font-poppins text-3xl md:text-4xl lg:text-5xl text-center pb-6 px-4 mb-30 mt-10">Presioná o hace click en la imagen del barco que te interese para ir al detalle</h2>
       <section className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mx-6 md:mx-10 lg:mx-20 xl:mx-28">{allProducts.map((product) => {
