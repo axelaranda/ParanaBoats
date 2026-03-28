@@ -600,6 +600,7 @@ Vela de competición
 Aparejo
 Orza
 Timón
+Trailer
 
 Homologado ISAF
     `,
@@ -1134,6 +1135,104 @@ Motor: Evinrude 60 HP 2 tiempos
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1774468296/WhatsApp_Imawerwerge_2026-03-24_at_11.46.58_ds0zsl.jpg",
     ],
     id: 27,
+  },
+
+                       {
+    name: "Victoria Open Sport",
+    price: 10000,
+    description:
+    `
+Año: 2004
+
+Ubicada en Paraná
+
+Material: fibra de vidrio
+
+Eslora: 5,4 metros
+Manga: 2,1 metros
+
+Motor: Yamaha 115 HP 2 tiempos
+    `,
+    images: [
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1774660215/WhatsApp_Image_2026-03-27_at_18.04.31_zkfsup.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1774660222/WhatsApp_Image_2026-03-27_at_18.04.29_vwa1ym.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1774660230/WhatsApp_Image_2026-03-27_at_18.04.32_dbvqx3.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1774660236/WhatsApp_Image_2026-03-27_at_18.04.34_yroue1.jpg",
+    ],
+    id: 28,
+  },
+
+                         {
+    name: "H20",
+    price: 10000,
+    description:
+    `
+Ubicado en Paraná
+
+Material: fibra de vidrio
+
+Año 1981
+
+Motor: Sail Master 9.9 HP
+
+Anafe
+Carpintería recién hecha
+Jarcia en buen estado
+Cabullería nueva
+Herrajes en buen estado
+Mayor de dacron sin uso
+Mayor de dacron usada
+Spi
+Genoa nueva
+Instalación eléctrica nueva
+Toldo
+Ancla
+    `,
+    images: [
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1774660306/IMG_20260327_165218_502_afyfwi.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1774660319/IMG_20260327_165238_913_bhcfui.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1774660329/IMG_20260327_165456_621_lydzqx.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1774660343/IMG_20260327_165516_382_fctmzj.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1774660352/IMG_20260327_165552_316_dd9zfc.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1774660364/IMG_20260327_165611_003_nqpvzt.jpg",
+    ],
+    id: 29,
+  },
+
+                           {
+    name: "Laser",
+    price: 3500,
+    description:
+    `
+Fabricado en Inglaterra
+
+Homologado
+
+Ubicado en Paraná
+
+Material: fibra de vidrio
+
+Año: posterior al 2000
+
+Aparejo radial
+Vela radial
+Base de aparejo standard
+3 velas standard
+Timón
+Orza
+Vang
+Prolongador de carbono
+Funda cobertora para el casco
+Funda para orza y timón
+Trailer
+    `,
+    images: [
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1774660800/IMG_20260327_163843_557_ucg9cm.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1774660813/IMG_20260327_163923_032_nikrrj.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1774660822/IMG-20251107-WA0008_ziczqo.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1774660830/IMG-20251107-WA0014_nlymym.jpg",
+    ],
+    id: 30,
   },
 
 ];
