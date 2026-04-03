@@ -527,7 +527,7 @@ Material: fibra de vidrio
 Eslora: 5,2 metros 
 Manga: 2,1 metros 
 
-Motor Mariner 150 HP del año 2018 con 182 hrs 
+Motor Mariner 150 HP 4 tiempos del año 2018 con 182 hrs 
 
 Power trim
 Trailer 
