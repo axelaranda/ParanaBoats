@@ -28,10 +28,6 @@ const NavBar = () => {
         </div>
 
         </section>
-
-        <div className="mt-2">
-        <h1 className="w-full text-center text-6xl sm:text-7xl md:text-8xl lg:text-9xl font-poppins text-custom-dark [text-shadow:_2px_2px_0_#4b5563] px-2 mt-2 break-words">Paraná Boats</h1>
-        </div>
  
         </nav>
 
