@@ -43,7 +43,7 @@ export default function Home() {
                       <div className="flex-1 p-4 flex flex-col">
                          <p className="font-roboto text-custom-dark line-clamp-1">{product.name}</p>
                          <p className="text-sm font-roboto text-gray-600 mt-1 line-clamp-2">{product.description}</p>
-                         <p className="text-3xl font-roboto mt-3 text-custom-dark">USD {product.price.toLocaleString("es-AR")}</p>
+                         <p className="text-3xl font-roboto mt-3 text-custom-dark">USD {product.price}</p>
                       </div>
                         
                   </article>  
