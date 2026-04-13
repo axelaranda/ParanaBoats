@@ -551,36 +551,6 @@ Muchos accesorios!
     id: 12,
   },
 
-     {
-    name: "Optimist",
-    price: "1.500 + 4% de comisión",
-    description:
-    `
-Material: fibra de vidrio
-
-Ubicado en Paraná
-
-Año: 2011
-
-Flotadores casi nuevos
-Funda completa
-Vela de competición
-Aparejo
-Orza
-Timón
-Trailer
-
-Homologado ISAF
-    `,
-    images: [
-      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760415988/IMG-20250926-WA0054_sysky0.jpg",
-      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760416008/IMG-20250926-WA0052_b78sgf.jpg",
-      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760416018/IMG-20250926-WA0032_cq1bwz.jpg",
-      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760415998/IMG-20250926-WA0053_pjtuct.jpg",
-    ],
-    id: 13,
-  },
-
       {
     name: "Atuel 460",
     price: "9.000 + 4% de comisión",
@@ -613,7 +583,7 @@ Trailer
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760416352/IMG-20241121-WA0030_fiweic.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760416361/IMG-20241121-WA0031_ez1oq7.jpg",
     ],
-    id: 14,
+    id: 13,
   },
 
  {
@@ -637,7 +607,7 @@ Motor: Powertec 15 HP 2 tiempos
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760457921/Imagen_de_WhatsApp_2025-10-14_a_las_12.48.56_973b874d_t0waxs.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760457928/Imagen_de_WhatsApp_2025-10-14_a_las_12.48.59_78e3280d_v3t2dx.jpg",
     ],
-    id: 15,
+    id: 14,
   },
 
      {
@@ -696,7 +666,7 @@ Flybridge con espacio para parrilla eléctrica
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1775081127/WhatsApp_Image_2026-04-01_fhfgh18.35.02_heyhpm.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1775081146/WhatsApfghfghp_Image_2026-04-01_at_18.35.00_yjieer.jpg",
     ],
-    id: 16,
+    id: 15,
   },
 
        {
@@ -740,7 +710,7 @@ Solárium en proa
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760839316/IMG-20251018-WA0021_afj7ns.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760839324/IMG-20251018-WA0019_sbmbs2.jpg",
     ],
-    id: 17,
+    id: 16,
   },
 
          {
@@ -771,7 +741,7 @@ Año 2010
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1761971600/IMG-20251027-WA0011_ff935e.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1761971607/IMG-20251027-WA0010_rly7th.jpg",
     ],
-    id: 18,
+    id: 17,
   },
 
            {
@@ -802,7 +772,7 @@ Año 1999
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1762282913/Imagen_de_WhatsApp_2025-11-04_a_las_11.53.11_aa8872af_tcnqmz.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1762282920/Imagen_de_WhatsApp_2025-11-04_a_las_11.53.12_f33391b4_q3dhhn.jpg",
     ],
-    id: 19,
+    id: 18,
   },
 
              {
@@ -848,7 +818,7 @@ Inodoro eléctrico
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1767655041/IMG_20260105_171336_745_pmbehx.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1767655052/IMG_20260105_171558_062_u6g3i0.jpg",
     ],
-    id: 20,
+    id: 19,
   },
 
                {
@@ -907,31 +877,7 @@ Mesa quita y pone con asientos a popa en u
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1762309336/IMG-20250825-WA0018_2_icdvai.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1762309344/IMG-20250825-WA0020_hoqons.jpg",
     ],
-    id: 21,
-  },
-
-               {
-    name: "Ideal 400",
-    price: "3.800 + 4% de comisión",
-    description:
-    `
-Ubicada en Paraná 
-
-Material: fibra de vidrio
-
-Eslora: 4 metros
-Manga: 1,6 metros
-
-Año: 2019
-
-Motor: Mercury 15 HP año 2012
-    `,
-    images: [
-      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1766085540/WhatsApp_Image_2025-12-17_at_13.50.38yuy_y5j4fn.jpg",
-      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1766085524/WhatsApp_Image_2025-12-17_at_13.50.38_ggxyt3.jpg",
-      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1766085533/WhatsApp_Image_2025-12-17_at_13.50.38y_m4yspn.jpg",
-    ],
-    id: 22,
+    id: 20,
   },
 
                    {
@@ -961,7 +907,7 @@ Trailer
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1766863756/WhatsApp_Image_2025-12-17_at_13.51.32yuy_zf9z3v.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1766863748/WhatsApp_Image_2025-12-17_at_13.51.32_t3afpw.jpg",
     ],
-    id: 23,
+    id: 21,
   },
 
                      {
@@ -1016,7 +962,7 @@ Service hecho de motor y pata
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1774298175/WhatsApp_Image_2026-fhfghf-23_at_17.23.13_hesulx.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1774298189/WdhdfghfdghhatsApp_Image_2026-03-23_at_17.23.13_ahonpn.jpg",   
     ],
-    id: 24,
+    id: 22,
   },
 
                      {
@@ -1074,7 +1020,7 @@ Compás
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1774454942/WhatsertertApp_Image_2026-03-25_at_12.30.50_yogcgv.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1774454934/WhatsApp_rtyrtyrty2026-03-25_at_12.30.50_sdfnzl.jpg",
     ],
-    id: 25,
+    id: 23,
   },
 
                      {
@@ -1105,7 +1051,7 @@ Motor: Evinrude 60 HP 2 tiempos
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1774468288/WhatsApp_Image_2026-werwer-24_at_11.46.58_ntcjvv.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1774468296/WhatsApp_Imawerwerge_2026-03-24_at_11.46.58_ds0zsl.jpg",
     ],
-    id: 26,
+    id: 24,
   },
 
                        {
@@ -1130,7 +1076,7 @@ Motor: Yamaha 115 HP 2 tiempos
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1774660230/WhatsApp_Image_2026-03-27_at_18.04.32_dbvqx3.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1774660236/WhatsApp_Image_2026-03-27_at_18.04.34_yroue1.jpg",
     ],
-    id: 27,
+    id: 25,
   },
 
                          {
@@ -1167,7 +1113,7 @@ Ancla
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1774660352/IMG_20260327_165552_316_dd9zfc.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1774660364/IMG_20260327_165611_003_nqpvzt.jpg",
     ],
-    id: 28,
+    id: 26,
   },
 
                            {
@@ -1203,7 +1149,7 @@ Trailer
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1774660822/IMG-20251107-WA0008_ziczqo.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1774660830/IMG-20251107-WA0014_nlymym.jpg",
     ],
-    id: 29,
+    id: 27,
   },
 
                              {
@@ -1239,7 +1185,7 @@ Trailer
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1775316847/yyImage_2026-04-01_at_10.16.10_nmkppr.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1775316858/WhatsApp_Imoooage_2026-04-01_at_10.16.10_u9flnc.jpg",
     ],
-    id: 30,
+    id: 28,
   },
 
 ];
