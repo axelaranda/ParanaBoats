@@ -10,7 +10,7 @@ export const boats: Boats[] = [
 
     {
     name: "Intruder 720",
-    price: "31.500 + 4% de comisión",
+    price: "31.500 + 3% de comisión",
     description:
 `
 Eslora: 7,2 metros
@@ -70,7 +70,7 @@ Pata totalmente repasada
 
   {
     name: "Nautiglass C25",
-    price: "26.000 + 4% de comisión",
+    price: "26.000 + 3% de comisión",
     description:
     `
 Material: fibra de vidrio 
@@ -117,7 +117,7 @@ Instalación eléctrica impecable
 
     {
     name: "Canestrari 19",
-    price: "14.000 + 4% de comisión",
+    price: "14.000 + 3% de comisión",
     description:
     `
 Material: fibra de vidrio 
@@ -146,7 +146,7 @@ Equipo de sonido
 
   {
     name: "Tarrab Atlántico",
-    price: "65.000 + 4% de comisión",
+    price: "65.000 + 3% de comisión",
     description:
     `
 Ubicado en Paraná 
@@ -200,7 +200,7 @@ Transmisión: pata Volvo
 
     {
     name: "Crucero 33 pies",
-    price: "30.000 + 4% de comisión",
+    price: "30.000 + 3% de comisión",
     description:
     `
 Ubicado en Paraná 
@@ -250,7 +250,7 @@ Año: 1983
 
     {
     name: "Huracán 460",
-    price: "8.500 + 4% de comisión",
+    price: "8.500 + 3% de comisión",
     description:
     `
 Año 2006
@@ -284,7 +284,7 @@ Tráiler
 
       {
     name: "Pontoon Lerch 21",
-    price: "32.000 + 4% de comisión",
+    price: "32.000 + 3% de comisión",
     description:
     `
 260 horas de uso 
@@ -334,7 +334,7 @@ Papeles al día
 
     {
     name: "Eclipse 18, SIN MOTOR, SOLO CASCO",
-    price: "10.000 + 4% de comisión",
+    price: "10.000 + 3% de comisión",
     description:
     `
 SOLO CASCO, EL MOTOR YA SE VENDIÓ
@@ -369,7 +369,7 @@ Arranque eléctrico
 
    {
     name: "Semirrígido Sail Nautic",
-    price: "11.900 + 4% de comisión",
+    price: "11.900 + 3% de comisión",
     description:
     `
 Goma 2022
@@ -404,7 +404,7 @@ Equipado para kite y wake
 
      {
     name: "Dangelo 30",
-    price: "32.000 + 4% de comisión",
+    price: "32.000 + 3% de comisión",
     description:
     `
 Año 1984    
@@ -476,7 +476,7 @@ Papeles al día
 
      {
     name: "Ponyriver 760",
-    price: "34.000 + 4% de comisión",
+    price: "34.000 + 3% de comisión",
     description:
     `
 Eslora: 7,6 metros 
@@ -520,7 +520,7 @@ Instalación eléctrica nueva
 
      {
     name: "Bermuda 175",
-    price: "15.900 + 4% de comisión",
+    price: "15.900 + 3% de comisión",
     description:
     `
 Año 1998
@@ -553,7 +553,7 @@ Muchos accesorios!
 
       {
     name: "Atuel 460",
-    price: "9.000 + 4% de comisión",
+    price: "9.000 + 3% de comisión",
     description:
     `
 Ubicada en Paraná 
@@ -588,7 +588,7 @@ Trailer
 
  {
     name: "Kiel 360",
-    price: "3.500 + 4% de comisión",
+    price: "3.500 + 3% de comisión",
     description:
     `
 Goma año 2020
@@ -612,7 +612,7 @@ Motor: Powertec 15 HP 2 tiempos
 
      {
     name: "Crucero 34 pies",
-    price: "52.000 + 4% de comisión",
+    price: "52.000 + 3% de comisión",
     description:
     `
 Ubicado en Paraná 
@@ -671,7 +671,7 @@ Flybridge con espacio para parrilla eléctrica
 
        {
     name: "Canestrari 235",
-    price: "45.000 + 4% de comisión",
+    price: "45.000 + 3% de comisión",
     description:
     `
 Material: fibra de vidrio 
@@ -715,7 +715,7 @@ Solárium en proa
 
          {
     name: "F18",
-    price: "4.500 + 4% de comisión",
+    price: "4.500 + 3% de comisión",
     description:
     `
 Ubicado en Paraná 
@@ -746,7 +746,7 @@ Año 2010
 
            {
     name: "Tecno 430",
-    price: "6.000 + 4% de comisión",
+    price: "6.000 + 3% de comisión",
     description:
     `
 Ubicado en Paraná 
@@ -777,7 +777,7 @@ Año 1999
 
              {
     name: "Grandjean",
-    price: "25.000 + 4% de comisión",
+    price: "25.000 + 3% de comisión",
     description:
     `
 Ubicado en Paraná 
@@ -823,7 +823,7 @@ Inodoro eléctrico
 
                {
     name: "Grandjean",
-    price: "29.000 + 4% de comisión",
+    price: "29.000 + 3% de comisión",
     description:
     `
 Año: 1988
@@ -882,7 +882,7 @@ Mesa quita y pone con asientos a popa en u
 
                    {
     name: "Tecno 430",
-    price: "8.000 + 4% de comisión",
+    price: "8.000 + 3% de comisión",
     description:
     `
 Ubicada en Paraná 
@@ -912,7 +912,7 @@ Trailer
 
                      {
     name: "Nautiglass Intruder 720",
-    price: "27.000 + 4% de comisión",
+    price: "27.000 + 3% de comisión",
     description:
     `
 Eslora: 7,2 metros
@@ -967,7 +967,7 @@ Service hecho de motor y pata
 
                      {
     name: "Custon Special",
-    price: "67.000 + 4% de comisión",
+    price: "67.000 + 3% de comisión",
     description:
     `
 Ubicado en Paraná
@@ -1025,7 +1025,7 @@ Compás
 
                      {
     name: "Cargo 520",
-    price: "10.000 + 4% de comisión",
+    price: "10.000 + 3% de comisión",
     description:
     `
 Eslora: 5,3 metros
@@ -1056,7 +1056,7 @@ Motor: Evinrude 60 HP 2 tiempos
 
                        {
     name: "Victoria Open Sport",
-    price: "10.000 + 4% de comisión",
+    price: "10.000 + 3% de comisión",
     description:
     `
 Año: 2004
@@ -1081,7 +1081,7 @@ Motor: Yamaha 115 HP 2 tiempos
 
                          {
     name: "H20",
-    price: "10.000 + 4% de comisión",
+    price: "10.000 + 3% de comisión",
     description:
     `
 Ubicado en Paraná
@@ -1118,7 +1118,7 @@ Ancla
 
                            {
     name: "Laser",
-    price: "3.500 + 4% de comisión",
+    price: "3.500 + 3% de comisión",
     description:
     `
 Fabricado en Inglaterra
@@ -1154,7 +1154,7 @@ Trailer
 
                              {
     name: "Tecno 430",
-    price: "6.000 + 4% de comisión",
+    price: "6.000 + 3% de comisión",
     description:
     `
 Motor: Johnson 50 HP 2 tiempos
