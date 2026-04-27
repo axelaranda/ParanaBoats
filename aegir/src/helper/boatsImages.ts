@@ -1188,6 +1188,37 @@ Trailer
     id: 28,
   },
 
+                               {
+    name: "Robinson Mantra",
+    price: "21.000 + 3% de comisión",
+    description:
+    `
+Motor: Mercury 90 HP 4 tiempos
+
+Año 2024
+
+85 hrs de uso
+
+Material: fibra de vidrio
+
+Ubicada en Paraná
+
+Eslora: 5,26 metros
+Manga: 2,09 metros
+
+Trailer
+Toldilla 
+Ecosonda 
+Lona 
+    `,
+    images: [
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1777262012/WhatsApp_Image_ff-04-23_at_07.44.35_fgtvjx.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1777262019/WhatsApp_Image_2026-04-23_at_07.44.35_tqvtav.jpg",
+      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1777262027/dddImage_2026-04-23_at_07.44.35_tkqczm.jpg",
+    ],
+    id: 29,
+  },
+
 ];
 
 
