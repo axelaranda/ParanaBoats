@@ -882,7 +882,7 @@ Mesa quita y pone con asientos a popa en u
 
                    {
     name: "Tecno 430",
-    price: "8.000 + 3% de comisión",
+    price: "6.500 + 3% de comisión",
     description:
     `
 Ubicada en Paraná 
