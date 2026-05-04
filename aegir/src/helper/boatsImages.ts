@@ -1068,6 +1068,8 @@ Material: fibra de vidrio
 Eslora: 5,4 metros
 Manga: 2,1 metros
 
+Trailer
+
 Motor: Yamaha 115 HP 2 tiempos
     `,
     images: [
