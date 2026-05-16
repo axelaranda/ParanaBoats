@@ -200,7 +200,7 @@ Transmisión: pata Volvo
 
     {
     name: "Crucero 33 pies",
-    price: "30.000 + 3% de comisión",
+    price: "25.000 + 3% de comisión",
     description:
     `
 Ubicado en Paraná 
