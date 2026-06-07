@@ -2,7 +2,7 @@ import { SiWhatsapp } from "react-icons/si";
 
 export default function WhatsAppFab() {
   const phone = "5493435032200";
-  const text = encodeURIComponent("Hola 👋, vengo del sitio y quiero más info");
+  const text = encodeURIComponent("¡Hola!, vengo del sitio y quiero más info");
   const href = `https://wa.me/${phone}?text=${text}`;
 
   return (
