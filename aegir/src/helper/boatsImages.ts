@@ -669,50 +669,6 @@ Flybridge con espacio para parrilla eléctrica
     id: 15,
   },
 
-       {
-    name: "Canestrari 235",
-    price: "45.000 + 3% de comisión",
-    description:
-    `
-Material: fibra de vidrio 
-
-Ubicada en Paraná
-
-Eslora: 7,15 metros 
-Manga: 2,55 metros 
-
-Año: 2014
-
-Motorización: Volvo Penta 230 HP nafta
-Transmisión: pata Volvo duo prop
-
-Camarote 
-Baño
-Amplio cockpit
-Mesa
-Bacha con canilla 
-
-Cobertor completo 
-
-Planchada de popa
-
-Instrumental completo 
-
-Solárium en proa
-    `,
-    images: [
-      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760835835/IMG-20251018-WA0038_ybiixs.jpg",
-      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760835852/IMG-20251018-WA0041_oc6xh4.jpg",
-      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760835868/IMG-20251018-WA0036_vrrmal.jpg",
-      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760835888/IMG-20251018-WA0034_ekxlcw.jpg",
-      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760835924/IMG-20251018-WA0030_fh7edf.jpg",
-      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760839308/IMG-20251018-WA0024_tc3ovu.jpg",
-      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760839316/IMG-20251018-WA0021_afj7ns.jpg",
-      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1760839324/IMG-20251018-WA0019_sbmbs2.jpg",
-    ],
-    id: 16,
-  },
-
          {
     name: "F18",
     price: "4.500 + 3% de comisión",
@@ -741,7 +697,7 @@ Año 2010
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1761971600/IMG-20251027-WA0011_ff935e.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1761971607/IMG-20251027-WA0010_rly7th.jpg",
     ],
-    id: 17,
+    id: 16,
   },
 
            {
@@ -772,7 +728,7 @@ Año 1999
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1762282913/Imagen_de_WhatsApp_2025-11-04_a_las_11.53.11_aa8872af_tcnqmz.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1762282920/Imagen_de_WhatsApp_2025-11-04_a_las_11.53.12_f33391b4_q3dhhn.jpg",
     ],
-    id: 18,
+    id: 17,
   },
 
              {
@@ -818,7 +774,7 @@ Inodoro eléctrico
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1767655041/IMG_20260105_171336_745_pmbehx.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1767655052/IMG_20260105_171558_062_u6g3i0.jpg",
     ],
-    id: 19,
+    id: 18,
   },
 
                {
@@ -877,7 +833,7 @@ Mesa quita y pone con asientos a popa en u
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1762309336/IMG-20250825-WA0018_2_icdvai.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1762309344/IMG-20250825-WA0020_hoqons.jpg",
     ],
-    id: 20,
+    id: 19,
   },
 
                    {
@@ -907,7 +863,7 @@ Trailer
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1766863756/WhatsApp_Image_2025-12-17_at_13.51.32yuy_zf9z3v.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1766863748/WhatsApp_Image_2025-12-17_at_13.51.32_t3afpw.jpg",
     ],
-    id: 21,
+    id: 20,
   },
 
                      {
@@ -962,7 +918,7 @@ Service hecho de motor y pata
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1774298175/WhatsApp_Image_2026-fhfghf-23_at_17.23.13_hesulx.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1774298189/WdhdfghfdghhatsApp_Image_2026-03-23_at_17.23.13_ahonpn.jpg",   
     ],
-    id: 22,
+    id: 21,
   },
 
                      {
@@ -1020,7 +976,7 @@ Compás
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1774454942/WhatsertertApp_Image_2026-03-25_at_12.30.50_yogcgv.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1774454934/WhatsApp_rtyrtyrty2026-03-25_at_12.30.50_sdfnzl.jpg",
     ],
-    id: 23,
+    id: 22,
   },
 
                      {
@@ -1051,7 +1007,7 @@ Motor: Evinrude 60 HP 2 tiempos
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1774468288/WhatsApp_Image_2026-werwer-24_at_11.46.58_ntcjvv.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1774468296/WhatsApp_Imawerwerge_2026-03-24_at_11.46.58_ds0zsl.jpg",
     ],
-    id: 24,
+    id: 23,
   },
 
                        {
@@ -1078,7 +1034,7 @@ Motor: Yamaha 115 HP 2 tiempos
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1774660230/WhatsApp_Image_2026-03-27_at_18.04.32_dbvqx3.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1774660236/WhatsApp_Image_2026-03-27_at_18.04.34_yroue1.jpg",
     ],
-    id: 25,
+    id: 24,
   },
 
                          {
@@ -1115,7 +1071,7 @@ Ancla
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1774660352/IMG_20260327_165552_316_dd9zfc.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1774660364/IMG_20260327_165611_003_nqpvzt.jpg",
     ],
-    id: 26,
+    id: 25,
   },
 
                            {
@@ -1151,7 +1107,7 @@ Trailer
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1774660822/IMG-20251107-WA0008_ziczqo.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1774660830/IMG-20251107-WA0014_nlymym.jpg",
     ],
-    id: 27,
+    id: 26,
   },
 
                              {
@@ -1187,7 +1143,7 @@ Trailer
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1775316847/yyImage_2026-04-01_at_10.16.10_nmkppr.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1775316858/WhatsApp_Imoooage_2026-04-01_at_10.16.10_u9flnc.jpg",
     ],
-    id: 28,
+    id: 27,
   },
 
                                {
@@ -1218,7 +1174,7 @@ Lona
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1777262019/WhatsApp_Image_2026-04-23_at_07.44.35_tqvtav.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1777262027/dddImage_2026-04-23_at_07.44.35_tkqczm.jpg",
     ],
-    id: 29,
+    id: 28,
   },
 
 ];
