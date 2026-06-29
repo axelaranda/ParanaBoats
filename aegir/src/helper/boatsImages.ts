@@ -836,36 +836,6 @@ Mesa quita y pone con asientos a popa en u
     id: 19,
   },
 
-                   {
-    name: "Tecno 430",
-    price: "6.500 + 3% de comisión",
-    description:
-    `
-Ubicada en Paraná 
-
-Material: fibra de vidrio 
-
-Año 2006
-
-Eslora: 4,2 metros 
-Manga: 1,7 metros 
-
-Motor: Yamaha 40 HP año 2010
-
-Bomba de achique 
-Ecosonda 
-Luces 
-Lona
-Trailer 
-    `,
-    images: [
-      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1766863766/WhatsApp_Image_2025-12-17_at_13.51.32yuyuy_obrjlu.jpg",
-      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1766863756/WhatsApp_Image_2025-12-17_at_13.51.32yuy_zf9z3v.jpg",
-      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1766863748/WhatsApp_Image_2025-12-17_at_13.51.32_t3afpw.jpg",
-    ],
-    id: 20,
-  },
-
                      {
     name: "Nautiglass Intruder 720",
     price: "27.000 + 3% de comisión",
@@ -918,7 +888,7 @@ Service hecho de motor y pata
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1774298175/WhatsApp_Image_2026-fhfghf-23_at_17.23.13_hesulx.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1774298189/WdhdfghfdghhatsApp_Image_2026-03-23_at_17.23.13_ahonpn.jpg",   
     ],
-    id: 21,
+    id: 20,
   },
 
                      {
@@ -976,7 +946,7 @@ Compás
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1774454942/WhatsertertApp_Image_2026-03-25_at_12.30.50_yogcgv.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1774454934/WhatsApp_rtyrtyrty2026-03-25_at_12.30.50_sdfnzl.jpg",
     ],
-    id: 22,
+    id: 21,
   },
 
                      {
@@ -1007,7 +977,7 @@ Motor: Evinrude 60 HP 2 tiempos
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1774468288/WhatsApp_Image_2026-werwer-24_at_11.46.58_ntcjvv.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1774468296/WhatsApp_Imawerwerge_2026-03-24_at_11.46.58_ds0zsl.jpg",
     ],
-    id: 23,
+    id: 22,
   },
 
                        {
@@ -1034,7 +1004,7 @@ Motor: Yamaha 115 HP 2 tiempos
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1774660230/WhatsApp_Image_2026-03-27_at_18.04.32_dbvqx3.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1774660236/WhatsApp_Image_2026-03-27_at_18.04.34_yroue1.jpg",
     ],
-    id: 24,
+    id: 23,
   },
 
                          {
@@ -1071,7 +1041,7 @@ Ancla
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1774660352/IMG_20260327_165552_316_dd9zfc.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1774660364/IMG_20260327_165611_003_nqpvzt.jpg",
     ],
-    id: 25,
+    id: 24,
   },
 
                            {
@@ -1107,7 +1077,7 @@ Trailer
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1774660822/IMG-20251107-WA0008_ziczqo.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1774660830/IMG-20251107-WA0014_nlymym.jpg",
     ],
-    id: 26,
+    id: 25,
   },
 
                              {
@@ -1143,7 +1113,7 @@ Trailer
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1775316847/yyImage_2026-04-01_at_10.16.10_nmkppr.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1775316858/WhatsApp_Imoooage_2026-04-01_at_10.16.10_u9flnc.jpg",
     ],
-    id: 27,
+    id: 26,
   },
 
                                {
@@ -1174,7 +1144,7 @@ Lona
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1777262019/WhatsApp_Image_2026-04-23_at_07.44.35_tqvtav.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1777262027/dddImage_2026-04-23_at_07.44.35_tkqczm.jpg",
     ],
-    id: 28,
+    id: 27,
   },
 
 ];
