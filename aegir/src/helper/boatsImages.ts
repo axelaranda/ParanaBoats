@@ -1080,42 +1080,6 @@ Trailer
     id: 25,
   },
 
-                             {
-    name: "Tecno 430",
-    price: "6.000 + 3% de comisión",
-    description:
-    `
-Motor: Johnson 50 HP 2 tiempos
-
-Año 1999
-
-Material: fibra de vidrio
-
-Ubicada en Paraná
-
-Eslora: 4,2 metros
-Manga: 1,7 metros
-
-Pala bichero
-Ecosonda Garmin
-Bomba de achique 
-Salvavidas
-Bengalas
-Ancla
-Tanque de nafta
-Service al día
-Lona cobertora
-Trailer
-    `,
-    images: [
-      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1775316831/WhatsApp_uuu2026-04-01_at_10.16.11_spflii.jpg",
-      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1775316838/WhatsApp_Image_2026-04-01_at_10.16.10_yctf4u.jpg",
-      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1775316847/yyImage_2026-04-01_at_10.16.10_nmkppr.jpg",
-      "https://res.cloudinary.com/dahmjd1ew/image/upload/v1775316858/WhatsApp_Imoooage_2026-04-01_at_10.16.10_u9flnc.jpg",
-    ],
-    id: 26,
-  },
-
                                {
     name: "Robinson Mantra",
     price: "21.000 + 3% de comisión",
@@ -1144,7 +1108,7 @@ Lona
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1777262019/WhatsApp_Image_2026-04-23_at_07.44.35_tqvtav.jpg",
       "https://res.cloudinary.com/dahmjd1ew/image/upload/v1777262027/dddImage_2026-04-23_at_07.44.35_tkqczm.jpg",
     ],
-    id: 27,
+    id: 26,
   },
 
 ];
