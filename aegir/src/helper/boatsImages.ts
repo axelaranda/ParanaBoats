@@ -404,7 +404,7 @@ Equipado para kite y wake
 
      {
     name: "Dangelo 30",
-    price: "32.000 + 3% de comisión",
+    price: "21.000 + 3% de comisión",
     description:
     `
 Año 1984    
