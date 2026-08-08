@@ -951,7 +951,7 @@ Compás
 
                      {
     name: "Cargo 520",
-    price: "10.000 + 3% de comisión",
+    price: "9.500 + 3% de comisión",
     description:
     `
 Eslora: 5,3 metros
